@@ -1,0 +1,2794 @@
+{
+    "Software Engineer": [
+        "Eight years writing React components. In 2026 your entire job is literally 'Write me a SaaS landing page' → done in 11 seconds. Days left: {months} months. Start practicing 'You want fries with that?'",
+        "LeetCode hard grinder detected. AI solves it in 0.3s while you were still reading the question. New career: DoorDash driver. Here’s a video on how to not get your tires stolen.",
+        "You optimized Big O like your life depended on it. Spoiler: it did. AI does it in O(1). Physical viability in construction: {viability}%. Lmao.",
+        "Senior title, 400k TC, stock refreshers… cute. Grok 5 just replaced your whole team with one prompt. Start growing calluses, princess."
+    ],
+    "Frontend Engineer": [
+        "Tailwind warrior detected. In 2027 your job is 'type three magic words into Cursor'. {months} months until you’re asking Home Depot how to hold a shovel.",
+        "You fought holy wars over pixels. AI generates pixel-perfect UIs while taking a shit. New career: cleaning porta-potties on those sites you used to design."
+    ],
+    "Backend Engineer": [
+        "You built 'scalable distributed systems'. AI runs everything on SQLite and it’s faster. {months} months until you’re distributing hay bales instead.",
+        "Kubernetes certified? The cluster now manages itself and sent you a pink slip. Better learn how to castrate cattle."
+    ],
+    "Full-Stack Developer": [
+        "You proudly call yourself full-stack. AI is full-stack and full-brains. Your new stack is hay bales.",
+        "MERN, PERN, T3… doesn’t matter. One prompt beats them all. Start learning how to stack bricks."
+    ],
+    "DevOps Engineer": [
+        "You wrote Terraform like poetry. AI wrote the entire infra in English: 'make it not break'. You’re now the human error in 'Human Error 404'.",
+        "On-call PTSD champion. Soon your pager will be a rooster."
+    ],
+    "Site Reliability Engineer": [
+        "99.999% uptime god. AI just made it 100% and laid you off. New uptime: time until your back gives up."
+    ],
+    "Cloud Architect": [
+        "You designed multi-region high-availability diagrams for six figures. AI did it in one sentence. New architecture: barn raising.",
+        "AWS Solutions Architect Pro? The solution is you’re screwed."
+    ],
+    "Blockchain Developer": [
+        "You wrote Solidity like it was the future. The future just wrote you out of it. New chain: ball and chain on a fishing boat.",
+        "Web3 visionary. Web4 is AI and you’re not invited."
+    ],
+    "Smart Contract Developer": [
+        "Your contracts were immutable. Your employment isn’t. {months} months until you’re contracting muscles instead."
+    ],
+    "Crypto Trader": [
+        "You called yourself a degen and lived on 4chan charts. AI trades better and doesn’t need Red Bull. New portfolio: calluses."
+    ],
+    "NFT Artist": [
+        "You right-click-saved your way to riches. AI left-click-generated better art in 3 seconds. Start right-clicking ‘Apply’ at construction sites."
+    ],
+    "Metaverse Real-Estate Agent": [
+        "You sold virtual land for real ETH. The metaverse just got foreclosed. Time to sell actual dirt."
+    ],
+    "Prompt Engineer": [
+        "Lmao your entire job title is typing words into a box. That box just learned to type itself. {months} months until you’re boxing cardboard."
+    ],
+    "AI Ethics Officer": [
+        "You wrote 47-page papers on bias and safety. The AI read them, said 'lol', and replaced you anyway. New ethics: don’t drop the hammer on your foot."
+    ],
+    "Data Scientist": [
+        "40-page thesis on Bayesian hyper-parameter tuning. AutoML does it better on a Raspberry Pi. {months} months until you’re tuning carburetors instead.",
+        "PhD in machine learning? The model just learned to replace you."
+    ],
+    "Machine Learning Engineer": [
+        "You trained models for three weeks. Someone typed 'make it good' and beat your benchmark. Better start training your lower back."
+    ],
+    "Data Analyst": [
+        "You’re literally just a human Excel. ChatGPT does VLOOKUPs faster than you open the file. Start watching 'How to castrate a calf'.",
+        "Pivot tables → pivot to pig farming in {months} months."
+    ],
+    "Business Intelligence Analyst": [
+        "You made dashboards nobody read. AI makes better dashboards and nobody still reads them. At least you’ll get sunlight now."
+    ],
+    "Product Manager": [
+        "You perfected moving Jira tickets and saying 'Let’s circle back'. AI replaced you with a $9/month plugin called 'Roadmap Jesus'. {months} months until you’re circling back to the unemployment line.",
+        "400+ connections that 'would love to help'. None will. Start learning how to pour concrete."
+    ],
+    "Technical Product Manager": [
+        "You spoke fluent engineer and stakeholder. AI speaks both better and doesn’t need lunch. New language: foreman screams."
+    ],
+    "Growth Product Manager": [
+        "You A/B tested button colors for months. AI tested a million variants while eating zero calories. New growth: muscle mass."
+    ],
+    "UX Designer": [
+        "You charged $600/hr to move a button 2px left. Midjourney + Figma AI does your entire portfolio in 11 seconds. New career: selling Canva templates to 12-year-olds.",
+        "Empathy mapping won’t help when you’re mapping how to not die on a roof in July."
+    ],
+    "UI Designer": [
+        "Behance warrior with 100k likes. AI just generated something better while eating 0 electricity. Start liking the smell of diesel and regret."
+    ],
+    "Graphic Designer": [
+        "You spent eight years mastering the pen tool. Midjourney does your entire portfolio in 11 seconds for $8. New career: Etsy sticker seller competing with 9-year-olds."
+    ],
+    "Motion Designer": [
+        "You animated logos for six figures. AI does it in 4 seconds and adds cinematic camera moves. New motion: constant back pain."
+    ],
+    "Copywriter": [
+        "You agonized over headlines for days. Claude writes 100 better ones before you finish your oat latte."
+    ],
+    "Content Creator": [
+        "You built a personal brand on TikTok and Substack. AI just cloned your entire style and posts 100x faster. New brand: mud."
+    ],
+    "Social Media Manager": [
+        "You scheduled tweets for brands. AI writes better tweets and schedules itself. New schedule: 6am construction start."
+    ],
+    "SEO Specialist": [
+        "You lived for algorithm updates. Now the algorithm writes the content AND ranks it. Time to update your résumé to 'professional ditch digger'."
+    ],
+    "Digital Marketing Manager": [
+        "You ran Facebook ads like a god. Meta just released an AI that runs them better and doesn’t need Ubers to WeWork. New title: Uber driver."
+    ],
+    "Growth Hacker": [
+        "17 side hustles and a Notion template empire. AI built a better funnel while you were getting coffee. New hustle: actual hustling gravel."
+    ],
+    "Lawyer": [
+        "You billed 300 hours researching case law. Harvey.ai did it in 45 seconds. {months} months until you’re billing hours… shoveling gravel."
+    ],
+    "Paralegal": [
+        "You highlighted PDFs for a living. AI highlights better and doesn’t need carpal tunnel surgery."
+    ],
+    "Corporate Lawyer": [
+        "You drafted 200-page contracts. AI drafts tighter ones and actually understands them. New clause: manual labor."
+    ],
+    "Consultant": [
+        "You made PowerPoint decks for $800/hr. AI makes better decks and actually has good ideas. New deck: deck staining."
+    ],
+    "Management Consultant": [
+        "McKinsey alum with a 47-slide framework. AI has one slide: 'Fire half the staff, including you'."
+    ],
+    "Strategy Consultant": [
+        "You charged millions to tell companies to 'disrupt'. AI disrupted you first."
+    ],
+    "Recruiter": [
+        "You spam LinkedIn with 'I have an exciting opportunity'. Soon the AI will spam YOU with 'exciting opportunity to clean porta-potties'."
+    ],
+    "Technical Recruiter": [
+        "You asked engineers to solve algos on whiteboards. AI solves them and doesn’t care about your 'culture fit'."
+    ],
+    "HR Business Partner": [
+        "You wrote inclusive job descriptions. AI writes them better and doesn’t care about pronouns. Start writing your name on a lunchbox."
+    ],
+    "Finance Bro": [
+        "You model DCFs in Excel like a wizard. AI does it in natural language and actually gets the terminal value right. Time to terminate your gym membership."
+    ],
+    "Investment Banker": [
+        "You pulled 100-hour weeks for a bonus that bought one month of freedom. AI builds pitchbooks in 20 minutes and never needs cocaine. {months} months until your new pitch is ‘Can I carry that 80 lb bag, sir?’"
+    ],
+    "Private Equity Associate": [
+        "You optimized EBITDA like a god and lived on Red Bull. AI optimized your entire job out of existence and runs on electricity."
+    ],
+    "Venture Capitalist": [
+        "You funded AI startups that just made you obsolete. Beautiful circle of life."
+    ],
+    "Journalist": [
+        "You chased scoops and deadlines. AI generates 100 breaking stories an hour and nobody can tell."
+    ],
+    "Tech Journalist": [
+        "You wrote '10x engineer' think-pieces. The 10x engineer is now an AI."
+    ],
+    "Teacher": [
+        "Khan Academy + AI tutor just replaced you. The kids like the robot better anyway – it doesn’t give homework."
+    ],
+    "Professor": [
+        "Tenure? Cute. AI just wrote a better lecture and grades essays instantly."
+    ],
+    "Middle Manager": [
+        "Your superpower is scheduling meetings. AI canceled all meetings forever. You’re now the meeting between a hammer and your thumb."
+    ],
+    "CEO": [
+        "Visionary leader, 17 board seats. The board just asked ChatGPT to be interim CEO and it accepted for $0."
+    ],
+    "Startup Founder": [
+        "You raised $12M at $80M valuation for a todo app with AI. The irony is delicious. AI just built a better one for $0."
+    ],
+    "Chief of Staff": [
+        "You were the CEO’s brain extension. AI just became the new brain, cheaper and doesn’t need Equinox.",
+        "Calendar Tetris master. New game: Tetris with cinder blocks."
+    ],
+    "Operations Manager": [
+        "You optimized processes nobody understood. AI optimized you out of the process."
+    ],
+    "Customer Success Manager": [
+        "You sent 'How can we make you successful today?' emails. AI sends them better and actually fixes the problem."
+    ],
+    "Sales Development Rep": [
+        "You cold-called and got hung up on for a living. AI never gets tired and has perfect pitch."
+    ],
+    "Account Executive": [
+        "You closed six-figure deals with golf and steak dinners. AI closes seven-figure deals with zero steak."
+    ],
+    "Solutions Engineer": [
+        "You drew architecture diagrams on whiteboards. AI draws better ones and deploys them too."
+    ],
+    "Technical Account Manager": [
+        "You translated nerd to business and back. AI speaks both fluently and bills less."
+    ],
+    "Community Manager": [
+        "You moderated Discord servers for crypto projects. The projects are dead and so is your job."
+    ],
+    "Influencer Marketing Manager": [
+        "You paid 19-year-olds to shill sugar water. AI generates influencers that never age or say no."
+    ],
+    "Performance Marketing Manager": [
+        "ROAS god. AI gets infinite ROAS and zero ego."
+    ],
+    "Brand Manager": [
+        "You protected the brand voice. AI is the new voice and it’s cheaper."
+    ],
+    "Public Relations Manager": [
+        "You wrote press releases nobody read. AI writes them and gets on TechCrunch anyway."
+    ],
+    "Event Planner": [
+        "You built seating charts from hell. AI builds them in 3 seconds and prevents family fights with algorithms."
+    ],
+    "Real Estate Agent": [
+        "Zillow + AI just replaced you. Start selling actual plots… of land you’ll farm."
+    ],
+    "Mortgage Broker": [
+        "You shopped rates for 2% commission. AI shops every lender in real time for free."
+    ],
+    "Insurance Agent": [
+        "You sold whole life to grandmas. AI sells perfect policies and never cold-calls."
+    ],
+    "Travel Agent": [
+        "You sold overpriced packages with a smile. AI books perfect trips for 1/10th the price and never adds ‘resort fees’."
+    ],
+    "Wedding Planner": [
+        "AI plans better weddings and doesn’t cry when the bride changes her mind 47 times."
+    ],
+    "Executive Assistant": [
+        "You managed a calendar like a ninja. AI manages 50 calendars and never sleeps."
+    ],
+    "Office Manager": [
+        "You ordered oat milk and fixed the printer. AI doesn’t drink and printers are dead."
+    ],
+    "Receptionist": [
+        "You greeted people with a smile. AI greets them with perfect pronunciation and no salary."
+    ],
+    "Librarian": [
+        "Shusher of children and guardian of overdue books. ChatGPT is the new library and it’s open 24/7 with zero fines."
+    ],
+    "Archivist": [
+        "You preserved history. AI rewrites it faster than you can catalog it."
+    ],
+    "Translator": [
+        "DeepL and GPT-4 just made you obsolete in 170 languages."
+    ],
+    "Interpreter": [
+        "Real-time AI earpieces just ended your career. New interpretation: interpreting foreman screams."
+    ],
+    "Voice Actor": [
+        "You built a $50k booth. ElevenLabs cloned your voice from 30 seconds of audio."
+    ],
+    "Radio DJ": [
+        "AI hosts better shows and never plays Nickelback by mistake."
+    ],
+    "Photographer": [
+        "You lugged $40k in gear for golden hour. Midjourney + Photoshop AI shoot perfect images 24/7."
+    ],
+    "Videographer": [
+        "You carried a RED camera and a fragile ego. Sora and Runway just replaced your entire rig."
+    ],
+    "Video Editor": [
+        "You spent 80 hours cutting a 3-minute reel. CapCut AI + Descript do it in 8 minutes with perfect pacing."
+    ],
+    "Sound Engineer": [
+        "AI masters tracks better and doesn’t need $300 headphones."
+    ],
+    "Music Producer": [
+        "You tweaked kicks for 12 hours. AI produces radio-ready tracks in one prompt."
+    ],
+    "Game Designer": [
+        "AI generates better levels and playtests them instantly."
+    ],
+    "Game Developer": [
+        "Unity + AI just replaced entire indie studios."
+    ],
+    "QA Tester": [
+        "AI finds bugs before you even compile."
+    ],
+    "Technical Writer": [
+        "You wrote 400-page API docs. AI wrote better ones while you were reading the spec."
+    ],
+    "Proposal Writer": [
+        "You spent weeks on RFP responses. AI does it in 20 minutes and wins more."
+    ],
+    "Grant Writer": [
+        "AI writes better sob stories and actually gets funded."
+    ],
+    "Speechwriter": [
+        "AI writes better speeches and doesn’t leak them to the press."
+    ],
+    "Screenwriter": [
+        "You sold a spec for $500k after 47 drafts. GPT-5 wrote a better one in 47 seconds."
+    ],
+    "Novelist": [
+        "AI pumps out bestsellers faster than you can get writer’s block."
+    ],
+    "Poet": [
+        "Even the poetry is better now. Time to rhyme ‘pain’ with ‘again’."
+    ],
+    "Comedian": [
+        "AI roasts harder than you ever could. And it’s free."
+    ],
+    "Life Coach": [
+        "You charged $500/hr to tell people to journal. AI does it for $20/month and actually remembers their goals."
+    ],
+    "Therapist": [
+        "AI chatbots have better empathy and zero waitlist. (Still recommend real ones for serious stuff, but your job… yeah.)"
+    ],
+    "Yoga Instructor": [
+        "AI-generated perfect flows with custom voiceovers. Namaste in the unemployment line."
+    ],
+    "Personal Trainer": [
+        "AI workout apps now adjust in real-time and shame you better than you ever could."
+    ],
+    "Nutritionist": [
+        "You fueled bodies with kale and quinoa. AI fuels with gene-based plans. {months} months until you're nourishing... the team with snacks."
+    ],
+    "Dietician": [
+        "Your food pyramid just got flattened by an algorithm."
+    ],
+    "Psychologist": [
+        "AI therapy bots have infinite patience and zero malpractice insurance.",
+        "Your couch just got replaced by a chatbot."
+    ],
+    "Psychiatrist": [
+        "AI diagnoses faster and never forgets a DSM code. (Still see a real one for meds.)"
+    ],
+    "Surgeon": [
+        "You cut people open for a living. Da Vinci robot just did it with four arms and zero ego. New title: robot assistant.",
+        "Your hands shake after three espressos. The robot doesnΓÇÖt drink coffee and never drops a scalpel.",
+        "Enjoy holding retractors for your new boss ΓÇö a machine that doesnΓÇÖt need music in the OR."
+    ],
+    "Nurse": [
+        "Robots can take vitals. They can’t hold a dying patient’s hand. You’re irreplaceable. Flex on the coders."
+    ],
+    "Pharmacist": [
+        "AI counts pills perfectly and never mixes up labels. New job: counting bricks."
+    ],
+    "Dentist": [
+        "AI-guided drills and 3D-printed teeth incoming. Start drilling holes in walls instead."
+    ],
+    "Veterinarian": [
+        "AI can diagnose your dog from a photo. Good luck, you’re still needed for the euthanasia part."
+    ],
+    "Architect": [
+        "You drew elevations for years. Midjourney + Veras generate full building designs from a napkin sketch."
+    ],
+    "Civil Engineer": [
+        "AI simulates load-bearing better and doesn’t need a $200k degree."
+    ],
+    "Mechanical Engineer": [
+        "CAD + AI just replaced your entire senior design project."
+    ],
+    "Electrical Engineer": [
+        "AI designs circuits faster and never burns the breadboard."
+    ],
+    "Chemical Engineer": [
+        "AI optimizes reactions and doesn’t blow up the lab."
+    ],
+    "Aerospace Engineer": [
+        "SpaceX uses AI to design rockets. Your new mission: don’t drop the wrench."
+    ],
+    "Biomedical Engineer": [
+        "AI designs better prosthetics and doesn’t need FDA approval to brainstorm."
+    ],
+    "Environmental Scientist": [
+        "AI models climate better and doesn’t fly private to conferences."
+    ],
+    "Geologist": [
+        "AI reads seismic data faster. Start reading want ads."
+    ],
+    "Meteorologist": [
+        "AI predicts weather better and never says 'partly cloudy with a chance of layoffs'."
+    ],
+    "Accountant": [
+        "You reconciled accounts like a monk. AI reconciles the entire company before you finish coffee."
+    ],
+    "Tax Advisor": [
+        "AI finds more deductions and never goes to jail for fraud."
+    ],
+    "Bookkeeper": [
+        "You entered receipts into QuickBooks. AI scans receipts with a phone and never double-enters."
+    ],
+    "Auditor": [
+        "You sampled 200 invoices and billed 2,000 hours. AI audits every transaction in real time."
+    ],
+    "Financial Planner": [
+        "Robo-advisors beat your returns and charge 0.25%."
+    ],
+    "Stock Trader": [
+        "AI trades at light speed and doesn’t panic-sell."
+    ],
+    "Hedge Fund Manager": [
+        "Renaissance Technologies but for everyone now. Your 2-and-20 is now 0-and-unemployed."
+    ],
+    "Real Estate Developer": [
+        "AI optimizes floor plans and predicts market crashes. You just predict back pain."
+    ],
+    "Property Manager": [
+        "AI handles tenant complaints 24/7 and never raises voice."
+    ],
+    "Appraiser": [
+        "You measured houses with a tape and ego. AI drones + satellite data appraise in 5 minutes."
+    ],
+    "Interior Designer": [
+        "You charged $200/hr for mood boards. AI generates photorealistic rooms in 5 seconds."
+    ],
+    "Fashion Designer": [
+        "AI drops entire collections daily. Your runway is now a dirt path."
+    ],
+    "Stylist": [
+        "AI personal stylist apps just replaced your mood board."
+    ],
+    "Makeup Artist": [
+        "You contoured for film. AR filters and AI makeup do it in real time."
+    ],
+    "Hairdresser": [
+        "Gossip + scissors + perfect layers. AI can’t compete."
+    ],
+    "Chef": [
+        "Robot kitchens cook perfectly every time. You still have creativity… for now."
+    ],
+    "Sous Chef": [
+        "You prepped mise en place like a soldier. AI preps 47 components simultaneously and never cuts a finger."
+    ],
+    "Bartender": [
+        "You free-poured and flirted for tips. Robotic bars pour perfect drinks 24/7 and never forget a face."
+    ],
+    "Sommelier": [
+        "You swirled and sniffed for $150k. AI tastes wine with sensors and never gets hungover."
+    ],
+    "Flight Attendant": [
+        "You smiled while serving pretzels at 37,000 feet. Drones serve drinks and never hit turbulence tears."
+    ],
+    "Pilot": [
+        "Autopilot just got its commercial license. Co-pilot = unemployed."
+    ],
+    "Air Traffic Controller": [
+        "You juggle 300 souls per plane with caffeine and curses. AI juggles… until the radar fails."
+    ],
+    "Truck Driver": [
+        "Self-driving trucks are 'five years away' for the 15th year. Keep on trucking, king."
+    ],
+    "Delivery Driver": [
+        "Drones and robots are coming. Start delivering yourself to the gym."
+    ],
+    "Uber Driver": [
+        "Waymo just took your surge pricing."
+    ],
+    "Bus Driver": [
+        "Self-driving buses donΓÇÖt need unions, bathroom breaks, or pensions.",
+        "Your route just became rerouted to the job center.",
+        "Next stop: reality."
+    ],
+    "Train Conductor": [
+        "You punch tickets and throw drunks off. AI conducts… then derails when someone pulls the emergency brake."
+    ],
+    "Plumber": [
+        "You fix what idiots broke with Drano and dreams. Robots can’t snake a toilet full of someone else’s shame. God-tier forever."
+    ],
+    "Electrician": [
+        "You make sparks fly for a living and nothing works until you leave. AI can’t bend pipe or swear at breakers. Untouchable."
+    ],
+    "Welder": [
+        "You fuse metal with fire and skill. Robots fuse… then crack the next day."
+    ],
+    "Carpenter": [
+        "Measure twice, cut once, swear 47 times. Robots measure 1,000 times and still fuck up the crown molding. You’re golden."
+    ],
+    "Mason": [
+        "You lay brick straighter than most people’s lives. Robots lay brick… then the wall falls over because they forgot mud."
+    ],
+    "HVAC Technician": [
+        "Robots hate crawling in 130°F attics. You own the sweat throne."
+    ],
+    "Roofer": [
+        "You dance on 12/12 pitches in July. Robots overheat and slide off like drunks."
+    ],
+    "Painter": [
+        "You cut lines so clean they bring tears. Robots drip and blame the humidity."
+    ],
+    "Drywaller": [
+        "Mud, tape, sand, repeat. AI gets dizzy just watching."
+    ],
+    "Landscaper": [
+        "AI can design the garden. It still can’t mow in 100° heat without melting."
+    ],
+    "Tree Surgeon": [
+        "Chainsaws + heights + judgment. Robots are terrified."
+    ],
+    "Heavy Equipment Operator": [
+        "You move mountains before breakfast. Robots move… one bucket and overheat."
+    ],
+    "Crane Operator": [
+        "You pick 200 tons like it’s a toy. AI picks… then drops it on the porta-potties."
+    ],
+    "Mechanic": [
+        "AI can diagnose. It still can’t turn a wrench without crushing its fake fingers. You’re safe… for now."
+    ],
+    "Auto Mechanic": [
+        "Electric vehicles have 90% fewer parts. Enjoy it while it lasts, legend."
+    ],
+    "Diesel Mechanic": [
+        "Trucks will run on diesel long after coders run on tears."
+    ],
+    "Farmer": [
+        "AI can’t milk a cow that just kicked it in the face. You are the final boss of human usefulness."
+    ],
+    "Rancher": [
+        "Cows don’t respect robots. Yet."
+    ],
+    "Fisherman": [
+        "Commercial fishing boats laugh at AI. You’re good."
+    ],
+    "Lobsterman": [
+        "Hauling traps in a nor’easter? Robots file a complaint and quit."
+    ],
+    "Construction Worker": [
+        "You already wake up at 4 a.m., break your body, and get paid in cash and respect. AI still can’t pour concrete in the rain or tell a plumber to go fuck himself. YOU WIN… for now. Enjoy laughing at the tech bros crying in your dust."
+    ],
+    "Ironworker": [
+        "You walk steel at 800 feet with a hangover. Robots get vertigo and fall off."
+    ],
+    "Lineman": [
+        "Live 500kV lines in a storm. AI stays inside and tweets about it."
+    ],
+    "Oil Rig Worker": [
+        "Roughneck life is 100% AI-proof until they invent robots that like explosions."
+    ],
+    "Miner": [
+        "Deep underground, no signal, pure skill. AI never even applies."
+    ],
+    "Logger": [
+        "Drone saws and autonomous feller bunchers just felled your career.",
+        "You fell trees. AI fell you.",
+        "Your chainsaw just got replaced by a charging cable."
+    ],
+    "Firefighter": [
+        "You run into burning buildings when everyone else runs out. Robots melt. You are literal fire-proof legends."
+    ],
+    "Paramedic": [
+        "You keep people alive in the street with duct tape and hope. Drones deliver AEDs… but can’t start an IV in a moving rig."
+    ],
+    "Police Officer": [
+        "You run toward gunfire while everyone else runs away. Robots can’t de-escalate a domestic with a single “ma’am, put the knife down” look. Untouchable legend."
+    ],
+    "Correctional Officer": [
+        "Robots don’t do well in prison riots."
+    ],
+    "Security Guard": [
+        "You walk dark buildings with a flashlight and bravado. AI watches cameras… but can’t chase."
+    ],
+    "Bouncer": [
+        "You decide who enters with a single head nod. Robots nod… then get bottled."
+    ],
+    "Garbage Collector": [
+        "Robots hate the smell. You’re golden."
+    ],
+    "Wastewater Treatment Operator": [
+        "You literally treat shit so civilization doesn’t drown in it. AI treats… then overflows."
+    ],
+    "Pest Control": [
+        "Crawling under houses with spiders and roaches. AI nopes out."
+    ],
+    "Exterminator": [
+        "Robots are scared of bugs too."
+    ],
+    "Septic Tank Technician": [
+        "The hero we need but don’t deserve. AI resigned on day one."
+    ],
+    "Chimney Sweep": [
+        "Robot brushes + drone inspection just swept you out.",
+        "Your broom just got replaced by a drone.",
+        "From soot to sorry."
+    ],
+    "Window Cleaner": [
+        "Dangling off skyscrapers. AI gets dizzy just thinking about it."
+    ],
+    "Locksmith": [
+        "AI can’t pick a lock when the tumblers are sticky."
+    ],
+    "Tow Truck Driver": [
+        "Repo man life. AI doesn’t like getting yelled at."
+    ],
+    "Funeral Director": [
+        "You make death look dignified. AI makes it efficient… but soulless."
+    ],
+    "Embalmer": [
+        "AI isn’t touching dead bodies. Ever."
+    ],
+    "Gravedigger": [
+        "Automated grave-digging machines just dug your job six feet under.",
+        "Your shovel just got replaced by a backhoe.",
+        "The only thing youΓÇÖre burying now is your career."
+    ],
+    "Surgeon Assistant": [
+        "Holding hearts in your hands. AI holds a tablet."
+    ],
+    "Anesthesiologist": [
+        "One wrong dose and it’s over. AI says “I’m not liable”."
+    ],
+    "Midwife": [
+        "Babies don’t wait for software updates."
+    ],
+    "Neonatal Nurse": [
+        "Tiny humans need real humans."
+    ],
+    "Hospice Nurse": [
+        "End-of-life care is 100% human. You’re untouchable."
+    ],
+    "Elderly Caregiver": [
+        "Holding hands with 90-year-olds isn’t programmable. You’re golden."
+    ],
+    "Childcare Worker": [
+        "Toddlers vs robots: toddlers win every time."
+    ],
+    "Special Education Teacher": [
+        "Angel walking among us. AI personalizes IEPs in real time. You’re still needed… until the robots learn love (keep the hard hat ready just in case)."
+    ],
+    "Physical Therapist": [
+        "AI can’t push a knee back into place with perfect feel."
+    ],
+    "Occupational Therapist": [
+        "Teaching a stroke patient to hold a spoon again. Pure human magic."
+    ],
+    "Speech Therapist": [
+        "AI can talk, but it can’t teach a kid to say ‘mama’."
+    ],
+    "Massage Therapist": [
+        "Robots give terrible happy endings."
+    ],
+    "Tattoo Artist": [
+        "One shaky line and it’s forever. AI designs perfect tattoos and projects them on skin."
+    ],
+    "Piercer": [
+        "AI doesn’t have the balls to stab yours."
+    ],
+    "Barber": [
+        "Fade game too strong for robots."
+    ],
+    "Manicurist": [
+        "AI nails look AI. Yours look fire."
+    ],
+    "Esthetician": [
+        "You popped zits for $150. AI skin scanners diagnose and laser them remotely."
+    ],
+    "Tailor": [
+        "Custom suits need human eyes and chalk."
+    ],
+    "Shoe Cobbler": [
+        "AI can’t smell old leather and know what it needs."
+    ],
+    "Blacksmith": [
+        "Hammer + anvil + fire. Robots melt."
+    ],
+    "Glassblower": [
+        "1,800°F and lungs of steel. AI taps out."
+    ],
+    "Potter": [
+        "Clay has feelings. AI doesn’t."
+    ],
+    "Sculptor": [
+        "You chiseled marble for years. AI carves perfect statues with robotic arms."
+    ],
+    "Street Musician": [
+        "Tips come from vibes, not algorithms."
+    ],
+    "Stand-up Comedian": [
+        "AI bombs harder than open-mic nights."
+    ],
+    "Actor": [
+        "AI can fake emotions, but it can’t cry real tears on cue."
+    ],
+    "Stunt Performer": [
+        "Setting yourself on fire for money. AI chooses life."
+    ],
+    "Default": [
+        "Whatever you do, if it’s on a laptop, it’s gone. {months} months until manual labor o’clock.",
+        "Congrats on the fancy title. Physical viability score: {viability}%. Good luck, champ."
+    ],
+    "TikTok Strategist": [
+        "You got brands to do the Renegade for $20k. AI does the Renegade, edits it, adds trending sounds, and posts at peak engagement — all while you’re still waiting for client approval."
+    ],
+    "OnlyFans Manager": [
+        "You scheduled booty pics and wrote captions like a poet. AI writes thirst traps in 47 accents and never asks for 20%."
+    ],
+    "Dropshipping Guru": [
+        "You sold $9 AliExpress junk for $79 with Facebook ads. AI finds the product, writes the ad, runs the store, and bans you from the niche."
+    ],
+    "LinkedIn Influencer": [
+        "You posted carousels about ‘grinding’ and ‘10x mindset’. AI posts carousels that actually get deals. Your new grind: concrete."
+    ],
+    "Career Coach": [
+        "You charged $3k to rewrite résumés. AI rewrites them better and adds the perfect humble-brag bullet points."
+    ],
+    "Executive Coach": [
+        "You told VPs to ‘lead with vulnerability’. AI leads the entire company and fires the VPs."
+    ],
+    "Agile Coach": [
+        "You drew burndown charts and preached Scrum. AI runs perfect sprints and doesn’t need a $600/hr certification."
+    ],
+    "Scrum Master": [
+        "You protected the team from distractions. AI is the distraction and the team."
+    ],
+    "Chief Happiness Officer": [
+        "You bought ping-pong tables and oat milk. AI calculated that happiness = layoffs."
+    ],
+    "Chief Diversity Officer": [
+        "You wrote 400-page DEI reports. AI wrote a better one in 4 seconds and actually increased diversity — by removing humans."
+    ],
+    "Metaverse Architect": [
+        "You built pixel offices nobody visited. The metaverse just got foreclosed."
+    ],
+    "Web3 Community Manager": [
+        "Your Discord is now a ghost town and your token is worth less than a Happy Meal toy."
+    ],
+    "DAO Contributor": [
+        "You voted on governance proposals with 0.0001% of the supply. The AI treasury just voted you out."
+    ],
+    "Crypto Compliance Officer": [
+        "You tried to make crime slower. AI made crime impossible."
+    ],
+    "DeFi Yield Farmer": [
+        "You aped into 300% APY rugs. AI farms infinite yield and never panic-sells."
+    ],
+    "Meme Lord": [
+        "You made Doge moon. AI makes better memes and actually understands the joke."
+    ],
+    "Professional Gamer": [
+        "AI just beat you 16–0 in Valorant and trash-talked in your own voice."
+    ],
+    "Esports Coach": [
+        "You screamed ‘buy!’ in CS. AI buys, rotates, and wins the major without a salary."
+    ],
+    "Twitch Streamer": [
+        "You played games for 8 hours. AI streams 24/7 with perfect commentary and zero rage quits."
+    ],
+    "YouTube Editor": [
+        "You spent 40 hours cutting jump-cuts. AI does it in 40 seconds with auto-banger thumbnails."
+    ],
+    "Podcast Producer": [
+        "AI removes every ‘um’, adds perfect intros, and books better guests than you ever could."
+    ],
+    "Virtual Assistant": [
+        "You scheduled Zoom calls for $15/hr. AI does it for $0 and never sleeps."
+    ],
+    "Cold Email Copywriter": [
+        "Your 17-step sequence had a 2.1% reply rate. AI wrote one email with 41% reply rate and stole your client."
+    ],
+    "Funnel Hacker": [
+        "You built ClickFunnels empires. AI builds the entire business while you’re still choosing the template."
+    ],
+    "Conversion Rate Optimizer": [
+        "You moved buttons 3px and bragged about 0.7% lift. AI moved the entire business to 100% lift."
+    ],
+    "No-Code Developer": [
+        "You built Bubble apps for $50k. AI built the same thing with one sentence and no subscription."
+    ],
+    "Bubble Consultant": [
+        "You charged $400/hr to fix repeating groups. AI fixes them and mocks you in the community forum."
+    ],
+    "Airtable Wizard": [
+        "You linked bases like a god. AI linked the entire company and laid off the department."
+    ],
+    "Zapier Automation Expert": [
+        "You built 400-step zaps. AI built the whole workflow in plain English."
+    ],
+    "Notion Consultant": [
+        "You sold $5k Notion templates. AI generates a better workspace and charges $0."
+    ],
+    "Chief Meme Officer": [
+        "Your memes were mid. AI memes are S-tier and they don’t need equity."
+    ],
+    "Head of Remote": [
+        "You wrote the ‘future of work’ playbook. The future just fired everyone who works remotely."
+    ],
+    "Fractional CMO": [
+        "You charged $15k/month for strategy. AI charges $20/month and actually grows the company."
+    ],
+    "Growth Advisor": [
+        "You advised ‘move fast and break things’. AI broke you."
+    ],
+    "Startup Advisor": [
+        "You took 1% equity for ‘intros’. AI made the intros and took 0%."
+    ],
+    "Angel Investor": [
+        "You wrote $25k checks to AI companies that just replaced the need for angel investors."
+    ],
+    "Venture Partner": [
+        "You sat on cap tables. AI rewrote the cap table without you."
+    ],
+    "Podcast Guest Booker": [
+        "You begged mid-tier founders for appearances. AI books Lex Fridman and never begs."
+    ],
+    "Personal Brand Strategist": [
+        "You told people to ‘be authentic’. AI is more authentic than 99% of humans now."
+    ],
+    "Twitter Ghostwriter": [
+        "You wrote banger threads for $2k. AI writes bangers that actually go viral."
+    ],
+    "Newsletter Writer": [
+        "You grew to 8k subs with 34% open rate. AI grew to 800k subs in a weekend."
+    ],
+    "Course Creator": [
+        "You sold ‘How to make $10k/month’ for $999. AI sells the same course for $9 and actually delivers."
+    ],
+    "Mastermind Host": [
+        "You charged $25k to put founders in a Slack group. AI put every founder ever in a better group for free."
+    ],
+    "Team Leader": [
+        "You manage the people who actually do the work. AI manages them better and doesn't need 1:1s.",
+        "Your job is to unblock the team. AI is the team and it's never blocked. New blocker: unemployment."
+    ],
+    "Project Manager": [
+        "You update Gantt charts. AI updates the code. Guess who wins? Hint: not the one with the color-coded spreadsheet.",
+        "You ask 'what's the status?'. AI knows the status is 'you're fired'. {months} months until you're managing your own schedule at the unemployment office."
+    ],
+    "Keynote Speaker": [
+        "You flew business class to talk about disruption. AI gave the keynote from a server rack and got a standing ovation."
+    ],
+    "TEDx Speaker": [
+        "Your idea worth spreading just got spread better by an AI with perfect slides."
+    ],
+    "Professional Networker": [
+        "You collected business cards. AI collected every human connection on Earth."
+    ],
+    "Clubhouse Moderator": [
+        "Remember Clubhouse? Exactly."
+    ],
+    "BeReal Community Manager": [
+        "Even BeReal got replaced. Twice."
+    ],
+    "Head of Innovation": [
+        "Your entire job was a buzzword. AI innovated you out of existence."
+    ],
+    "Futurist": [
+        "You predicted the future. The future predicted you’d be unemployed."
+    ],
+    "Medical Assistant": [
+        "You took vitals and scheduled appointments for $35k. AI now takes vitals via smartwatch and schedules via voice command. {months} months until you're assisting with actual heavy lifting."
+    ],
+    "Physician Assistant": [
+        "You played doctor for 80% of the pay. AI plays doctor better and doesn't need malpractice insurance. New assistant gig: assisting the real doctors with paperwork they hate."
+    ],
+    "Registered Nurse": [
+        "You juggled IVs and bedpans like a pro. AI monitors vitals 24/7 without spilling a drop. {months} months until your shifts are replaced by robot arms that don't unionize."
+    ],
+    "Licensed Practical Nurse": [
+        "LPN life: meds and morale boosts. AI boosts morale with perfect playlists and never forgets a dose. Start practicing your forklift certification."
+    ],
+    "Nursing Assistant": [
+        "You wiped brows and changed sheets for minimum wage. Robots wipe and change without complaint. New assistant role: assisting in the laundry room apocalypse."
+    ],
+    "Home Health Aide": [
+        "You helped grannies with bingo and baths. AI companions chat better and remind meds via Alexa. {months} months until you're aiding in home construction instead."
+    ],
+    "Certified Nursing Assistant": [
+        "CNA hustle: turning patients and taking temps. AI turns data into diagnoses faster. Time to certify in turning wrenches."
+    ],
+    "Nurse Practitioner": [
+        "You diagnosed like a doc but with more heart. AI diagnoses with 99.9% accuracy and zero burnout. New practice: practicing your hammer swing."
+    ],
+    "Clinical Nurse Specialist": [
+        "You specialized in systems and staff training. AI specializes in everything and trains itself. {months} months until your specialty is specializing in overtime."
+    ],
+    "Geriatric Nurse": [
+        "You charmed the elderly with Jell-O talks. AI charms with personalized stories that never repeat. Start charming the crew at the senior living farm."
+    ],
+    "Pediatric Nurse": [
+        "You made shots fun with stickers. AI distracts with AR games during pokes. {months} months until you're nursing scraped knees on the playground... construction site."
+    ],
+    "Oncology Nurse": [
+        "You held hands through chemo hell. AI holds data but can't hold hearts. You're safe-ish, but the admin side? AI's got it."
+    ],
+    "Cardiology Nurse": [
+        "Monitoring hearts and EKGs all day. Wearables do it remotely now. New cardio: cardiovascular strain from hauling equipment."
+    ],
+    "Emergency Room Nurse": [
+        "ER chaos queen. AI triages faster than caffeine kicks in. {months} months until your emergency is finding a non-AI job."
+    ],
+    "Critical Care Nurse": [
+        "ICU warrior, beeping machines your lullaby. AI predicts crashes before they beep. Start critically caring for your resume."
+    ],
+    "Operating Room Nurse": [
+        "Scrubs and sterile fields forever. Robotic surgery arms don't need nurses... yet. Viability: {viability}% in the OR of manual labor."
+    ],
+    "Labor and Delivery Nurse": [
+        "You coached pushes and cut cords. AI coaches breathing via app. {months} months until you're delivering... lumber to sites."
+    ],
+    "Dialysis Nurse": [
+        "Filtering kidneys one shift at a time. Portable AI dialyzers incoming. New filter: filtering excuses for not upskilling."
+    ],
+    "Respiratory Therapist": [
+        "You breathed life into vents and nebulizers. AI optimizes O2 flows perfectly. {months} months until you're respirating dust on the job."
+    ],
+    "Radiologic Technologist": [
+        "You positioned for X-rays without zapping yourself. AI auto-positions and enhances images. Start tech-ing the rad in radiator repair."
+    ],
+    "MRI Technologist": [
+        "Claustrophobia whisperer in tube land. AI scans without chit-chat. {months} months until your tube is a drainage pipe."
+    ],
+    "CT Scan Technologist": [
+        "Slicing images thinner than prosciutto. AI slices faster with zero contrast dye spills. New scan: scanning want ads."
+    ],
+    "Ultrasound Technologist": [
+        "Wand wizard spotting babies and blobs. AI wands auto-detect anomalies. {months} months until you're sonically cleaning... tools."
+    ],
+    "Nuclear Medicine Technologist": [
+        "Injecting isotopes like a mad scientist. AI maps radiation without the glow. Start nuking your LinkedIn with updates."
+    ],
+    "Radiation Therapist": [
+        "Zapping tumors with precision. AI zaps with sub-millimeter accuracy. {viability}% chance you'll thrive in solar panel installation."
+    ],
+    "Medical Laboratory Technician": [
+        "Pipetting samples in the dead of night. AI labs run 1,000 tests per hour. {months} months until you're tech-ing lab... oratory for speeches."
+    ],
+    "Clinical Laboratory Scientist": [
+        "You decoded blood like a cryptographer. AI decodes genomes in seconds. New science: science of survival jobs."
+    ],
+    "Phlebotomist": [
+        "Butterfly needle ballerina. AI auto-draws blood via drones. {months} months until you're drawing... blueprints."
+    ],
+    "Histotechnologist": [
+        "Slicing tissue thinner than onion skin. AI auto-sections slides perfectly. Start histo... teching history books in the library."
+    ],
+    "Cytotechnologist": [
+        "Spotting cancer cells in smears. AI spots them at cellular level instantly. {viability}% cytology for cytology... wait, calluses."
+    ],
+    "Medical Transcriptionist": [
+        "Typing doctor dictations like a boss. AI transcribes with 99% accuracy. {months} months until you're transcribing... construction logs."
+    ],
+    "Health Information Technician": [
+        "Coding claims and charts. AI codes ICD-10 in real-time. New info: info on welding certifications."
+    ],
+    "Medical Coder": [
+        "You billed for procedures like a ninja. AI bills accurately without audits. {months} months until you're coding... barcodes in warehouses."
+    ],
+    "Medical Biller": [
+        "Chasing payments from insurance ghouls. AI chases and collects via blockchain. Start billing... hours on the clock tower."
+    ],
+    "Patient Access Representative": [
+        "Gatekeeper of appointments and co-pays. AI schedules via chatbots 24/7. {months} months until you're accessing... patient loads of patience."
+    ],
+    "Admissions Coordinator": [
+        "Checking in the worried and weary. AI checks in via kiosks. New coord: coordinating chaos on site."
+    ],
+    "Patient Advocate": [
+        "Fighting for the little guy in white coats. AI advocates via algorithms. {viability}% advocacy for better boots."
+    ],
+    "Case Manager": [
+        "Juggling discharges and denials. AI manages cases end-to-end. {months} months until you're managing... case lots of tools."
+    ],
+    "Social Worker": [
+        "You navigated red tape for the vulnerable. AI navigates resources instantly. New social: socializing with the crew at lunch."
+    ],
+    "Clinical Social Worker": [
+        "Therapy in hospitals, no couch needed. AI therapy bots are always available. {months} months until you're socially working... overtime."
+    ],
+    "Dietitian": [
+        "You plated pyramids of nutrition. AI personalizes meals via apps. Start dieting... on takeout during shifts."
+    ],
+    "Registered Dietitian": [
+        "RD after your name, macros in your brain. AI RD's for millions. {viability}% registration for forklift ops."
+    ],
+    "Audiologist": [
+        "Tuning ears like violins. AI hearing aids self-adjust. New audio: audio of hammers on nails."
+    ],
+    "Optometrist": [
+        "Prescribing specs and spotting glaucoma. AI scans retinas via phone cams. {months} months until you're opti... mizing sight lines on scaffolds."
+    ],
+    "Ophthalmic Technician": [
+        "Dilating pupils and prepping for lasers. AI preps and dilates digitally. Start tech-ing oph...thalmic drops? Nah, eye protection."
+    ],
+    "Chiropractor": [
+        "Cracking backs like walnuts. AI exosuits align spines automatically. {viability}% crack at chiropractic... for chickens."
+    ],
+    "Podiatrist": [
+        "Foot fixes for the weary walker. AI insoles auto-correct gait. {months} months until you're pod... iatrically pedaling... wheelbarrows."
+    ],
+    "Orthotist": [
+        "Crafting braces and prosthetics. 3D-printed AI versions fit perfectly. New ortho: orthotics for heavy boots."
+    ],
+    "Prosthetist": [
+        "Building limbs better than before. AI builds bionic ones cheaper. {viability}% prosthetic for your ego."
+    ],
+    "EMT": [
+        "You see more blood before breakfast than most see in a lifetime. Robots faint."
+    ],
+    "Surgical Technologist": [
+        "Sterile scrubs and scalpel handoffs. Da Vinci robots handle it solo. {viability}% tech for surgical... strikes with hammers."
+    ],
+    "Perioperative Nurse": [
+        "Pre-op pep talks and post-op pillows. AI preps and pillows via bots. {months} months until you're periop... erating machinery."
+    ],
+    "Endoscopy Technician": [
+        "Snaking scopes into guts. AI pill cams scout ahead. New endo: endoscopy of... end-of-day beers."
+    ],
+    "Cardiovascular Technologist": [
+        "EKGs and echoes for heart heroes. AI wearables track 24/7. {months} months until you're cardio... vascularizing blood pressure from lifts."
+    ],
+    "Electroneurodiagnostic Technologist": [
+        "EEGs wiring brains like Christmas lights. AI helmets map neurons. Start electro... neuroding your way to electrician."
+    ],
+    "Polysomnographic Technologist": [
+        "Sleep studies in the witching hour. AI sleep trackers dream deeper. {viability}% poly... somno graphing your snooze on breaks."
+    ],
+    "Biomedical Equipment Technician": [
+        "Fixing ventilators before they flatline. AI self-diagnoses hardware. {months} months until you're bio... medically teching farm gear."
+    ],
+    "Healthcare Administrator": [
+        "You herded cats in compliance hell. AI admins optimize ops flawlessly. New admin: administering site safety."
+    ],
+    "Medical Director": [
+        "Overseeing docs like a hawk. AI directs diagnostics better. {viability}% direct to the director's chair... in the port-a-potty."
+    ],
+    "Chief Medical Officer": [
+        "CMO vision for hospital empires. AI CMOs run chains for pennies. {months} months until you're chief... ing officers of the obvious: AI wins."
+    ],
+    "Quality Improvement Coordinator": [
+        "Metrics and audits all day. AI improves quality instantaneously. Start coord... inating quality time with your new tools."
+    ],
+    "Compliance Officer": [
+        "You read 400-page regulations. AI reads them, interprets them, and enforces them."
+    ],
+    "Risk Manager": [
+        "You stress-tested for 2008. AI stress-tests for 2008, 2020, and 2030 simultaneously."
+    ],
+    "Epidemiologist": [
+        "Tracking outbreaks like a detective. AI models pandemics in minutes. {months} months until you're epi... demiologically demo-ing safety gear."
+    ],
+    "Biostatistician": [
+        "Crunching clinical trial numbers. AI stats trials in seconds. Start bio... statistically sampling your job market."
+    ],
+    "Health Policy Analyst": [
+        "You lobbied for laws in DC. AI analyzes policies globally. {viability}% policy for better hard hats."
+    ],
+    "Public Health Educator": [
+        "Preaching vaccines in community halls. AI educates via TikTok virals. {months} months until you're publicly health-ing the crew's hydration."
+    ],
+    "Environmental Health Specialist": [
+        "Inspecting restaurants for roaches. AI sensors sniff hazards. New enviro: environmental sweeps of debris."
+    ],
+    "Occupational Health Nurse": [
+        "Factory checkups for the workforce. AI wearables flag fatigue. {viability}% occupational... health for your own back."
+    ],
+    "Industrial Hygienist": [
+        "Air quality cop in factories. AI monitors molecules. {months} months until you're hygien... ically hosing down equipment."
+    ],
+    "Toxicologist": [
+        "Poison pro, antidotes on speed dial. AI predicts tox levels. Start toxico... logically testing your tolerance for dirt."
+    ],
+    "Genetic Counselor": [
+        "Decoding DNA dilemmas. AI counselors gene-edit futures. {viability}% genetic for your lineage of laborers."
+    ],
+    "Bioethicist": [
+        "Debating right vs wrong in labs. AI ethics boards decide faster. {months} months until you're bio... ethically building character."
+    ],
+    "Medical Illustrator": [
+        "Drawing guts for textbooks. AI illustrates anatomies instantly. New illust... rator: illustrating blueprints."
+    ],
+    "Health Informatics Specialist": [
+        "Data dancing in EHRs. AI informs health holistically. {viability}% informatics for info on irons."
+    ],
+    "Telemedicine Coordinator": [
+        "Zoom docs for remote rashes. AI tele-meds diagnose via drone. {months} months until you're coord... inating tele... scopes for site surveys."
+    ],
+    "Medical Writer": [
+        "Penning protocols and papers. AI writes med lit in moments. Start writing... your exit strategy."
+    ],
+    "Regulatory Affairs Specialist": [
+        "FDA filings like a fortress. AI affairs regulate themselves. {viability}% regulatory for reg... ulations on rebar."
+    ],
+    "Clinical Research Coordinator": [
+        "Recruiting for trials, consent forms galore. AI recruits and consents via app. {months} months until you're coord... inating crew trials."
+    ],
+    "Grant Administrator": [
+        "Begging bucks for breakthroughs. AI grants auto-approve. New admin: administering grants... of beer."
+    ],
+    "Healthcare Consultant": [
+        "Advising admins on efficiency. AI consults better for free. {viability}% consult for concrete consulting."
+    ],
+    "Medical Sales Representative": [
+        "Pushing pills to docs over lunch. AI sales reps close via VR demos. {months} months until you're rep... resenting sales of shovels."
+    ],
+    "Pharmaceutical Sales Rep": [
+        "Schmoozing samples to specialists. AI reps target precisely. Start pharma... ceutically selling... fertilizers."
+    ],
+    "Dental Hygienist": [
+        "Scraping plaque like a sculptor. AI floss bots clean autonomously. {viability}% hygienist for hygiene in hard hats."
+    ],
+    "Dental Assistant": [
+        "Suction and setup sidekick. Robotic chairs assist themselves. {months} months until you're assisting... dental... wait, dental dams? Nah, dams for floods."
+    ],
+    "Orthodontic Assistant": [
+        "Braces battles won daily. AI aligners self-adjust. New ortho: orthodontic for orth... o... don't ask."
+    ],
+    "Endodontist": [
+        "Root canal royalty. AI lasers zap nerves. {viability}% endo... dontist for end... of shift drinks."
+    ],
+    "Periodontist": [
+        "Gum guardian against gingivitis. AI gums up the competition. {months} months until you're perio... ntally planting perennials."
+    ],
+    "Oral Surgeon": [
+        "Jaw jacks and wisdom extractions. AI bots pull flawlessly. Start oral... surgically serving... orations."
+    ],
+    "Prosthodontist": [
+        "False teeth fashionista. 3D-printed AI dentures fit like dreams. {viability}% prostho... dontist for pros... thetic limbs? Wait, no repeats."
+    ],
+    "Ophthalmologist": [
+        "Eye MD, lasers and lenses. AI eyes scan retinas remotely. {months} months until you're oph... thalmologically overseeing operations."
+    ],
+    "Optician": [
+        "Fitting frames for faces. AI AR glasses fit virtually. New optic: optic... ally inspecting optics... tools."
+    ],
+    "Chiropractic Assistant": [
+        "Adjusting tables and attitudes. AI adjusters align spines. {viability}% assist for chiropractic... chickens? No."
+    ],
+    "Acupuncturist": [
+        "Needle ninja for chi flow. AI acupoints via wearables. {months} months until you're acu... puncturing punctuality issues."
+    ],
+    "Naturopathic Doctor": [
+        "Herbs and homeopathy healer. AI naturo-meds personalize. Start naturo... pathically navigating new paths."
+    ],
+    "Homeopathic Practitioner": [
+        "Diluted remedies for diluted doubts. AI dilutes data into cures. {viability}% homeo... pathic for home... o... repairs."
+    ],
+    "Sports Medicine Physician": [
+        "Athlete's ally. AI sports-meds via biosensors. Wait, repeat—nah, this one's fresh."
+    ],
+    "Orthopedic Surgeon": [
+        "Bone breaker-fixer. Robotic ortho-bots nail it. {viability}% ortho... pedic for ortho... pedic... foot care? Podiatrist repeat—no."
+    ],
+    "Neurologist": [
+        "Brain boss, seizures and strokes. AI neuro-maps minds. New neuro: neuro... logically networking on site."
+    ],
+    "Neurosurgeon": [
+        "Scalpel in the skull. AI nano-bots navigate neurons. {months} months until you're neuro... surgically networking nerves of steel."
+    ],
+    "Cardiologist": [
+        "Heart hero, stents and stress tests. AI cards predict infarcts. {viability}% cardio... logy for cardio... logging hours."
+    ],
+    "Gastroenterologist": [
+        "Gut guru, scopes and scopes. AI gut cams swallow themselves. Start gastro... enterologically entertaining the team."
+    ],
+    "Dermatologist": [
+        "Skin savant, zits and zappers. AI derm-apps diagnose moles. {months} months until you're derma... tologically dealing with dirt."
+    ],
+    "Endocrinologist": [
+        "Hormone harmonizer. AI endo-balances via patches. {viability}% endo... crinology for endo... crine... ing overtime."
+    ],
+    "Rheumatologist": [
+        "Joint jockey for arthritis. AI rheuma-mods joints. New rheuma: rheuma... tologically rubbing elbows with roughnecks."
+    ],
+    "Pulmonologist": [
+        "Lung lord, COPD and coughs. AI pulmo-predicts. {months} months until you're pulmo... nologically puffing dust."
+    ],
+    "Nephrologist": [
+        "Kidney keeper. AI nephro-filters better. {viability}% nephro... logy for nephro... logy... logging shifts."
+    ],
+    "Urologist": [
+        "Urine and up pipes pro. AI uro-scans bladders. Start uro... logically ur... ging urgency on deadlines."
+    ],
+    "Obstetrician": [
+        "Baby deliverer extraordinaire. AI ob monitors pregnancies. {months} months until you're obstetric... ianly observing births... of projects."
+    ],
+    "Gynecologist": [
+        "Women's wellness wizard. AI gyn-apps track cycles. {viability}% gyneco... logy for gyneco... logy... logical falls? No."
+    ],
+    "Pediatrician": [
+        "Kid doc, fevers and fractures. AI pedi-apps parent-proof. New pedi: pedi... atrically pedaling positivity."
+    ],
+    "Oncologist": [
+        "Cancer crusader. AI onco-targets tumors. {months} months until you're onco... logically on... cology... ogling options."
+    ],
+    "Hematologist": [
+        "Blood baron. AI hema-maps marrow. {viability}% hema... tology for hema... tology... tolog... yapping yarns."
+    ],
+    "Infectious Disease Specialist": [
+        "Plague pursuer. AI ID predicts outbreaks. Start ID... ing infections in incisions... tools."
+    ],
+    "Allergist": [
+        "Sneeze slayer. AI allergy-predicts via pollen cams. {months} months until you're aller... gically allergic to air con."
+    ],
+    "Immunologist": [
+        "Immune engineer. AI immu-boosts via vax apps. {viability}% immu... nology for immu... nology... logical immunity to layoffs."
+    ],
+    "Geriatrician": [
+        "Silver fox fixer. AI geriatrics personalize eldercare. New geriat: geriat... rically ger... iat... ricking risks."
+    ],
+    "Palliative Care Physician": [
+        "Comfort captain in end times. AI palliates pain via VR. {months} months until you're palli... atively palling around post-shift."
+    ],
+    "Pain Management Specialist": [
+        "Agony alchemist. AI pain-patches zap nerves. {viability}% pain... management for pain... management... ment of blisters."
+    ],
+    "Elementary School Teacher": [
+        "You taught 25 eight-year-olds to read while wiping noses and dodging kicks. AI tutors each kid 1-on-1 at their exact level, never yells, never needs recess. {months} months until your classroom is a construction site and your new students are grown men who can’t read a tape measure."
+    ],
+    "Middle School Teacher": [
+        "You survived puberty-fueled chaos and TikTok dances in hallways. AI never gets called a boomer and grades essays instantly. New middle school: middle of a cornfield at 5 a.m."
+    ],
+    "High School Teacher": [
+        "You begged teenagers to care about Shakespeare while dodging vape clouds. AI makes Shakespeare rap battles in their voice. {months} months until your tenure is ten years hauling rebar."
+    ],
+    "Principal": [
+        "You were the final boss of detention. AI runs the entire school, fires bad teachers, and never has to deal with angry Karens. New title: foreman."
+    ],
+    "Vice Principal": [
+        "Discipline enforcer with a walkie-talkie. AI enforces dress code via facial recognition and instant parent texts. Enjoy enforcing ‘hard hats only’."
+    ],
+    "School Counselor": [
+        "You helped kids pick colleges and process trauma. AI chatbots do it 24/7 and never cry in the staff bathroom."
+    ],
+    "Guidance Counselor": [
+        "You filled out FAFSA and gave pep talks. AI fills forms perfectly and predicts the best major by DNA. New guidance: guiding a wheelbarrow."
+    ],
+    "School Librarian": [
+        "You curated shelves and taught Dewey. AI curates perfect reading lists and never judges your anime phase."
+    ],
+    "ESL Teacher": [
+        "You taught immigrants English with picture cards and patience. Duolingo owl + AI just replaced you and guilt-trips better."
+    ],
+    "Substitute Teacher": [
+        "Human babysitter who got paid in exposure. AI subs never lose control of the class and don’t need Apple TV passwords."
+    ],
+    "Preschool Teacher": [
+        "You sang the cleanup song 400 times a day. AI sings in every kid’s native language and never steps on Legos."
+    ],
+    "Kindergarten Teacher": [
+        "Glue sticks, glitter, and tears. AI kindergartens run themselves and the glitter is digital (no more vacuuming)."
+    ],
+    "Montessori Teacher": [
+        "You let kids choose their work and followed the child. AI follows 300 children simultaneously and never needs coffee."
+    ],
+    "Waldorf Teacher": [
+        "No screens, just beeswax crayons and fairy tales. AI generates bespoke fairy tales with perfect Steiner vibes."
+    ],
+    "Art Teacher": [
+        "You said ‘there are no mistakes, only happy accidents’. Midjourney just made 10,000 happy accidents in one second."
+    ],
+    "Music Teacher": [
+        "You survived recorders and off-key ‘Hot Cross Buns’. AI composes symphonies with the kids and tunes instruments instantly."
+    ],
+    "Band Director": [
+        "You turned chaos into John Philip Sousa. AI conducts the entire band via earpieces and never loses a music stand."
+    ],
+    "Choir Director": [
+        "You taught teenagers harmony and posture. AI auto-tunes live and fixes pitch in real time. New choir: construction crew singing shanties."
+    ],
+    "Drama Teacher": [
+        "You directed 47 versions of ‘Our Town’. AI directs Oscar-worthy performances with student avatars."
+    ],
+    "PE Teacher": [
+        "You made kids run the mile while you held a clipboard. AI VR gym class tracks every calorie and shames them harder than you ever could."
+    ],
+    "Coach": [
+        "You screamed ‘hustle’ from the sidelines. AI coaches analyze biomechanics frame-by-frame and never get ejected."
+    ],
+    "Athletic Director": [
+        "You scheduled buses and bought Gatorade. AI schedules the entire district and optimizes hydration via smart bottles."
+    ],
+    "Math Teacher": [
+        "You explained why we need algebra while kids asked ‘when will we use this’. AI tutors calculus 1-on-1 and shows real-time career salary impact."
+    ],
+    "Algebra Teacher": [
+        "You fought the ‘x’ wars daily. AI solves x and tells the kid why it matters for their future job… that no longer exists."
+    ],
+    "Calculus Teacher": [
+        "Limits, derivatives, and existential dread. AI derives life advice while deriving functions."
+    ],
+    "Geometry Teacher": [
+        "You proved triangles congruent for 30 years. AI proves it in 3D with VR and never uses a compass."
+    ],
+    "Science Teacher": [
+        "Baking-soda volcanoes and frog dissections. AI simulates every experiment in perfect VR with zero mess."
+    ],
+    "Chemistry Teacher": [
+        "You smelled like sulfur and safety goggles. AI runs perfect labs and never causes evacuations."
+    ],
+    "Physics Teacher": [
+        "You dropped Slinkys down stairs to teach waves. AI drops virtual Slinkys in zero gravity for every student simultaneously."
+    ],
+    "Biology Teacher": [
+        "You dissected fetal pigs while vegetarians cried. AI dissects genomes and regenerates organs instead."
+    ],
+    "AP Biology Teacher": [
+        "You prepped kids for the exam with color-coded notes. AI generates perfect notes and predicts every question."
+    ],
+    "English Teacher": [
+        "Essays returned bleeding red ink. AI grades essays, gives therapy, and writes better ones than the student."
+    ],
+    "Literature Teacher": [
+        "You forced teens to love ‘Great Gatsby’. AI makes Gatsby TikToks in Old Sport voice that actually go viral."
+    ],
+    "History Teacher": [
+        "You made timelines on butcher paper. AI generates interactive 4D timelines with smell-o-vision battles."
+    ],
+    "Social Studies Teacher": [
+        "You tried to explain gerrymandering with pipe cleaners. AI simulates 10,000 election cycles while the kid watches."
+    ],
+    "Geography Teacher": [
+        "You made them label capitals. AI VR teleports them to every country with native guides."
+    ],
+    "Economics Teacher": [
+        "You taught supply and demand with candy. AI runs real-time global markets and eats zero candy."
+    ],
+    "Government Teacher": [
+        "You simulated Congress with pizza parties. AI simulates perfect democracy and never filibusters."
+    ],
+    "Psychology Teacher": [
+        "You taught Freud with outdated slides. AI psychoanalyzes the entire class in real time."
+    ],
+    "Sociology Teacher": [
+        "You debated nature vs nurture. AI settled it with genome + environment modeling."
+    ],
+    "Foreign Language Teacher": [
+        "You conjugated verbs on whiteboards for decades. Duolingo + AI immersion just ended your career in 170 languages."
+    ],
+    "Spanish Teacher": [
+        "¡Adiós! AI speaks perfect Spanish with regional accents and never assigns workbook pages."
+    ],
+    "French Teacher": [
+        "You corrected ‘je suis’ pronunciation all day. AI earpieces translate and teach in real time. Au revoir."
+    ],
+    "Latin Teacher": [
+        "You kept a dead language alive. AI resurrected it and teaches it better than you ever did."
+    ],
+    "ASL Teacher": [
+        "You signed your heart out. AI gloves translate sign to speech instantly."
+    ],
+    "Computer Science Teacher": [
+        "You taught Python to kids who now teach you. AI writes flawless code and debugs your life choices."
+    ],
+    "Coding Bootcamp Instructor": [
+        "You charged $15k to teach React in 12 weeks. AI teaches it in 12 minutes for free."
+    ],
+    "Robotics Teacher": [
+        "You built VEX robots with hot glue. AI designs real Boston Dynamics bots while your class watches."
+    ],
+    "STEM Coordinator": [
+        "You begged for grants to buy Lego Mindstorms. AI is the STEM now."
+    ],
+    "Gifted and Talented Teacher": [
+        "You gave extra projects to smart kids. AI accelerates every genius individually."
+    ],
+    "Remedial Teacher": [
+        "You never gave up on the strugglers. AI never gives up and never gets tired."
+    ],
+    "Reading Specialist": [
+        "You diagnosed dyslexia with paper tests. AI diagnoses in 30 seconds via eye-tracking."
+    ],
+    "Speech-Language Pathologist": [
+        "You taught ‘r’ sounds with tongue depressors. AI speech therapy apps never run out of stickers."
+    ],
+    "Occupational Therapist (School)": [
+        "You helped kids hold pencils. AI adaptive pencils and VR fine-motor games replaced you."
+    ],
+    "School Psychologist": [
+        "You tested IQs and wrote 30-page reports. AI writes better reports before the kid finishes the test."
+    ],
+    "Behavior Specialist": [
+        "You de-escalated meltdowns with calm voices. AI predicts meltdowns before they start."
+    ],
+    "IEP Coordinator": [
+        "You wrangled 47 teachers for one meeting. AI writes perfect IEPs and schedules itself."
+    ],
+    "Curriculum Director": [
+        "You aligned standards across districts. AI rewrote the entire curriculum overnight."
+    ],
+    "Instructional Coach": [
+        "You observed lessons and gave feedback. AI watches every teacher 24/7 and coaches in real time."
+    ],
+    "Professional Development Trainer": [
+        "You flew to conferences to teach ‘growth mindset’. AI trains every teacher simultaneously via VR."
+    ],
+    "Superintendent": [
+        "You walk the site like a warlord with a coffee and a death stare. Robots can’t replace the death stare yet. Respect."
+    ],
+    "School Board Member": [
+        "You argued about books and bathrooms. AI wrote policy that satisfies everyone and costs nothing."
+    ],
+    "Textbook Sales Rep": [
+        "You carried 40-pound samples to sell $120 books. AI generates custom textbooks for every kid, free."
+    ],
+    "EdTech Sales Rep": [
+        "You sold Google Classroom knockoffs. AI is the EdTech now."
+    ],
+    "Education Consultant": [
+        "You charged $10k/day to tell schools to use more technology. AI is the technology."
+    ],
+    "College Professor": [
+        "You lectured to hungover 19-year-olds. AI lectures perfectly, grades instantly, and never cancels class."
+    ],
+    "Adjunct Professor": [
+        "You made $3k per class with no benefits. AI makes $0 and never needs health insurance."
+    ],
+    "Tenured Professor": [
+        "You published or perished. AI publishes 100 papers a day and never perishes."
+    ],
+    "Department Chair": [
+        "You herded academic cats. AI herds them into perfect schedules and research output."
+    ],
+    "Dean": [
+        "You fundraised and glad-handed. AI writes better grant proposals and glad-hands via hologram."
+    ],
+    "Provost": [
+        "You were second-in-command of the university. AI is now first, second, and third."
+    ],
+    "University President": [
+        "You earned $1M to glad-hand donors. AI glad-hands better and takes 0% salary."
+    ],
+    "Admissions Officer": [
+        "You read 5,000 essays about dead grandmas. AI reads them in 3 seconds and writes better ones."
+    ],
+    "Financial Aid Officer": [
+        "You explained loans with a straight face. AI explains them honestly: ‘you’ll never pay this off’."
+    ],
+    "Registrar": [
+        "You managed transcripts and degree audits. AI blockchain-verified degrees at birth."
+    ],
+    "Librarian (College)": [
+        "You helped with MLA citations. AI cites, writes, and publishes the paper."
+    ],
+    "Research Assistant": [
+        "You ran lit reviews for grad students. AI ran the entire field’s lit review by breakfast."
+    ],
+    "Teaching Assistant": [
+        "You graded papers for $15/hr. AI grades, tutors, and holds office hours."
+    ],
+    "PhD Candidate": [
+        "You slaved five years for a job that no longer exists. AI got the PhD in five minutes."
+    ],
+    "Postdoc": [
+        "You delayed real life for $45k. AI skipped straight to tenure."
+    ],
+    "Academic Advisor": [
+        "You helped pick classes. AI picked the perfect life path and salary outcome."
+    ],
+    "Career Services Counselor": [
+        "You practiced interview questions. AI books the job before the interview."
+    ],
+    "Alumni Relations Officer": [
+        "You begged for donations. AI writes personalized begging letters that actually work."
+    ],
+    "Continuing Education Instructor": [
+        "You taught night classes to adults. AI teaches 24/7 and never needs parking."
+    ],
+    "Corporate Trainer": [
+        "You flew to teach ‘unconscious bias’ with PowerPoint. AI trains via VR and actually removes bias."
+    ],
+    "Instructional Designer": [
+        "You built online courses in Canvas. AI builds perfect adaptive courses in real time."
+    ],
+    "eLearning Developer": [
+        "You recorded voiceovers in your closet. AI voices sound like Morgan Freeman and never flub lines."
+    ],
+    "Education YouTuber": [
+        "You explained calculus with a whiteboard. AI explains it with explosions and memes and gets 100M views."
+    ],
+    "Khan Academy Contributor": [
+        "Even Sal is sweating now."
+    ],
+    "Homeschool Parent": [
+        "You quit your job to teach your kids. AI homeschools them better while you go back to work… that also doesn’t exist."
+    ],
+    "Tutor": [
+        "You charged $80/hr to explain fractions. AI tutors every subject for $9/month and never cancels."
+    ],
+    "SAT Prep Tutor": [
+        "You memorized every trick question. AI wrote the test and the perfect score."
+    ],
+    "Test Prep Company Owner": [
+        "Your $2,000 course just got replaced by a $20 AI that guarantees 1600."
+    ],
+    "School Bus Driver": [
+        "Autonomous buses just pulled up. Keep the steering wheel as a souvenir."
+    ],
+    "Cafeteria Worker": [
+        "AI cooks, serves, and cleans. The tater tots taste better too."
+    ],
+    "Custodian": [
+        "Roomba fleets and AI drones clean schools overnight. Enjoy the early retirement."
+    ],
+    "Crossing Guard": [
+        "You protect kids with a stop sign and guts. Drones try… then get run over."
+    ],
+    "Truancy Officer": [
+        "AI knows the second a kid skips class and texts the parents. Your clipboard is obsolete."
+    ],
+    "Paraprofessional": [
+        "You were the unsung hero of the classroom. AI sings better and doesn’t need singing."
+    ],
+    "Bilingual Aide": [
+        "AI translates 100 languages in real time. Your superpower just became table stakes."
+    ],
+    "After-School Program Director": [
+        "AI runs perfect after-school clubs with zero permission slips."
+    ],
+    "Summer Camp Counselor": [
+        "AI VR camps never have mosquitoes or homesickness."
+    ],
+    "Education Policy Analyst": [
+        "You wrote 100-page reports nobody read. AI wrote better policy and implemented it before lunch."
+    ],
+    "Teacher Union Rep": [
+        "AI doesn’t strike, doesn’t need health insurance, and never calls in sick."
+    ],
+    "Default Education": [
+        "Whatever you did with kids and learning — AI just did it better, faster, and cheaper. {months} months until your new classroom has no walls and a lot of dirt."
+    ],
+    "Hedge Fund Analyst": [
+        "You stared at Bloomberg terminals pretending to be a wizard. AI trades faster than you can hit ‘refresh’."
+    ],
+    "Quant Trader": [
+        "You wrote C++ that made millions in microseconds. AI wrote better algos in English while eating zero RAM."
+    ],
+    "Portfolio Manager": [
+        "You beat the S&P by 0.3% and called yourself a genius. AI beats it by 8% and charges 0.01%."
+    ],
+    "Financial Advisor": [
+        "You sold mutual funds with 2% fees and golfed with clients. Robo-advisors charge 0.25% and actually beat the market."
+    ],
+    "Wealth Manager": [
+        "You managed old money with a smile and a yacht brochure. AI manages it better and never leaks to Page Six."
+    ],
+    "Certified Financial Planner": [
+        "You charged $5k for a 47-page plan. AI generates a better one in 45 seconds for $9/month."
+    ],
+    "Family Office CIO": [
+        "You protected dynastic wealth with ‘diversification’. AI diversified your job into oblivion."
+    ],
+    "Corporate Banker": [
+        "You lent money to Fortune 500s and wined them at steak houses. AI underwrites loans in 3 seconds and doesn’t drink."
+    ],
+    "Credit Analyst": [
+        "You read 10-Ks like bedtime stories. AI reads them before you open the PDF."
+    ],
+    "Loan Officer": [
+        "You approved mortgages with a smile and a clipboard. AI approves in 30 seconds with zero bias."
+    ],
+    "Underwriter": [
+        "You said ‘no’ for a living. AI says ‘no’ faster and with perfect reasoning."
+    ],
+    "Commercial Real Estate Broker": [
+        "You closed $50M deals over handshakes and whiskey. AI matches tenants and landlords instantly."
+    ],
+    "Residential Real Estate Broker": [
+        "6% commission for open houses and bad photos. Zillow + AI just took your lunch."
+    ],
+    "Title Insurance Agent": [
+        "You sold peace of mind for closing. Blockchain titles just ended your entire industry."
+    ],
+    "Escrow Officer": [
+        "You held money and prayed. Smart contracts hold money and never pray."
+    ],
+    "CPA": [
+        "You charged $400/hr to find loopholes. AI finds better loopholes and never gets disbarred."
+    ],
+    "Tax Accountant": [
+        "You saved clients millions in April. AI saves billions year-round and never misses a deduction."
+    ],
+    "Payroll Specialist": [
+        "You calculated overtime and prayed to ADP. AI pays globally in 170 currencies without prayer."
+    ],
+    "Internal Auditor": [
+        "You found fraud after it happened. AI prevents fraud before it happens."
+    ],
+    "Forensic Accountant": [
+        "You followed the money like a bloodhound. AI follows every satoshi instantly."
+    ],
+    "CFO": [
+        "You presented earnings with jazz hands. AI presents perfect forecasts and never lies to Wall Street."
+    ],
+    "Controller": [
+        "You closed the books like a priest. AI closes them continuously and in real time."
+    ],
+    "FP&A Analyst": [
+        "You built 47-tab Excel models. AI builds dynamic models that update themselves."
+    ],
+    "Budget Analyst": [
+        "You said ‘no’ to every department. AI says ‘no’ with perfect data and zero emotions."
+    ],
+    "Treasury Analyst": [
+        "You managed cash like it was your own. AI manages it better and never steals."
+    ],
+    "Cash Manager": [
+        "You forecasted daily cash with a crystal ball. AI forecasts with 99.9% accuracy."
+    ],
+    "AML Analyst": [
+        "You flagged suspicious wires. AI flags them before they’re sent."
+    ],
+    "KYC Analyst": [
+        "You verified passports and utility bills. AI verifies biometrics and blockchain IDs instantly."
+    ],
+    "Trader (Equities)": [
+        "You clicked buttons faster than your ex. AI clicks at light speed and never has an ex."
+    ],
+    "Fixed Income Trader": [
+        "You quoted bonds like a poet. AI quotes every bond in the universe."
+    ],
+    "Derivatives Trader": [
+        "You priced options with Black-Scholes. AI prices them with quantum physics."
+    ],
+    "FX Trader": [
+        "You traded currency pairs and bragged about pips. AI trades every pip perfectly."
+    ],
+    "Commodities Trader": [
+        "You cornered orange juice futures. AI corners every market and never gets arrested."
+    ],
+    "Prop Trader": [
+        "You used house money and blew up anyway. AI uses house money and never blows up."
+    ],
+    "Market Maker": [
+        "You provided liquidity and skimmed the spread. AI provides infinite liquidity and zero spread."
+    ],
+    "Investment Analyst": [
+        "You wrote 40-page buy reports. AI writes better ones in 4 seconds."
+    ],
+    "Equity Research Analyst": [
+        "You initiated coverage with ‘Strong Buy’. AI initiates coverage on every stock every minute."
+    ],
+    "Credit Researcher": [
+        "You downgraded bonds after the default. AI predicts default before the company knows."
+    ],
+    "M&A Analyst": [
+        "You built DCF models at 4 a.m. AI builds them at Planck time."
+    ],
+    "Leveraged Finance Banker": [
+        "You piled debt on companies like Jenga. AI piles it higher and never loses."
+    ],
+    "Restructuring Banker": [
+        "You saved companies in Chapter 11. AI prevents Chapter 11 entirely."
+    ],
+    "Capital Markets Banker": [
+        "You priced IPOs and took 7%. AI prices them perfectly and takes 0%."
+    ],
+    "Syndicated Loan Agent": [
+        "You herded banks for billion-dollar deals. AI herds them via smart contracts."
+    ],
+    "Structured Finance Specialist": [
+        "You built CDOs nobody understood. AI builds better ones and actually understands them."
+    ],
+    "Securitization Analyst": [
+        "You turned trash into AAA. AI turns trash into trash and never lies."
+    ],
+    "Rating Agency Analyst": [
+        "You gave subprime AAA and crashed the world. AI gives perfect ratings and never crashes."
+    ],
+    "Insurance Underwriter": [
+        "You priced risk with tea leaves. AI prices it with perfect data."
+    ],
+    "Actuary": [
+        "You calculated life expectancy for premiums. AI calculates it down to the minute."
+    ],
+    "Claims Adjuster": [
+        "You denied claims for a living. AI denies them faster and with better excuses."
+    ],
+    "Reinsurance Broker": [
+        "You insured the insurers. AI reinsures everything and never needs lunch."
+    ],
+    "Pension Fund Manager": [
+        "You promised retirees 7% returns forever. AI delivers and never lies about it."
+    ],
+    "Endowment Manager": [
+        "You beat Harvard’s endowment by 0.1%. AI beats it by 10% and don’t need a yacht."
+    ],
+    "Sovereign Wealth Fund Analyst": [
+        "You invested oil money in tech. The tech just ate your job."
+    ],
+    "Mutual Fund Manager": [
+        "You charged 1.5% to underperform an ETF. AI charges 0.03% and outperforms."
+    ],
+    "ETF Trader": [
+        "You arbitraged tiny spreads. AI arbitrages every spread instantly."
+    ],
+    "Fund Accountant": [
+        "You calculated NAV at 4 p.m. AI calculates it continuously."
+    ],
+    "Transfer Agent": [
+        "You moved shares around like a shell game. Blockchain moves them instantly."
+    ],
+    "Custodian Bank Officer": [
+        "You held assets and charged for it. AI custodians hold them for fractions of a penny."
+    ],
+    "Trade Settlement Clerk": [
+        "T+2 was your life. AI settles T+0 and never misses a holiday."
+    ],
+    "Reconciliation Analyst": [
+        "You found breaks like a detective. AI prevents breaks entirely."
+    ],
+    "Treasury Dealer": [
+        "You quoted T-bills and bragged about basis points. AI quotes every bond in existence."
+    ],
+    "Money Market Trader": [
+        "You lent overnight at 0.01%. AI lends at negative rates and profits."
+    ],
+    "Billboard Lease Broker": [
+        "Wait, finance has these too. AI optimizes ad revenue and never drives to the site."
+    ],
+    "Factoring Company Owner": [
+        "You bought invoices at 80 cents. AI buys them at 99 and never chases deadbeats."
+    ],
+    "Hard Money Lender": [
+        "You charged 12% + 4 points to flippers. AI lends instantly with perfect risk pricing."
+    ],
+    "Payday Loan Officer": [
+        "You charged 400% APR legally. AI does it ethically and still profits."
+    ],
+    "Pawn Shop Broker": [
+        "You lent on gold teeth and power tools. AI appraises via photo and wires money."
+    ],
+    "Check Cashing Clerk": [
+        "You charged 10% to cash government checks. Crypto ATMs do it for 1%."
+    ],
+    "Remittance Agent": [
+        "You sent money to Mexico for $12. AI sends it for $0.12 via stablecoins."
+    ],
+    "Currency Exchange Teller": [
+        "You skimmed on airport rates. AI exchanges at mid-market with zero spread."
+    ],
+    "Crypto Exchange Support": [
+        "You told people to ‘be patient’. AI never loses keys and never rugs."
+    ],
+    "DeFi Lender": [
+        "You lent USDC at 8%. AI lends at 0% gas and 800% safer."
+    ],
+    "Stablecoin Issuer": [
+        "You promised 1:1 backing. AI proved it on-chain and never needed a Cayman entity."
+    ],
+    "Traditional Bank Teller": [
+        "You counted cash and smiled. AI ATMs count faster and never short the drawer."
+    ],
+    "Branch Manager": [
+        "You managed people who managed money. AI manages money without people."
+    ],
+    "Personal Banker": [
+        "You sold credit cards in-branch. AI sells better ones via TikTok ads."
+    ],
+    "Business Banker": [
+        "You approved $500k loans over golf. AI approves $50M loans over API."
+    ],
+    "Chief Risk Officer": [
+        "You prevented the last crisis. AI prevents the next one before breakfast."
+    ],
+    "Chief Compliance Officer": [
+        "You wrote policies nobody read. AI enforces policies nobody can break."
+    ],
+    "Board Member": [
+        "You collected $200k to attend four meetings. AI attends all meetings and actually reads the materials."
+    ],
+    "Default Finance": [
+        "Whatever you did with money — AI now does it better, faster, and for pennies. {months} months until your new asset class is calluses."
+    ],
+    "UI/UX Designer": [
+        "You charged $500/hr to move a button 2px. Figma AI + Midjourney just replaced your whole team. {months} months until you’re aligning actual bricks instead of wireframes."
+    ],
+    "Motion Graphics Designer": [
+        "You animated logos in After Effects for six figures. Runway Gen-2 does it in 4 seconds with cinematic camera moves you never learned."
+    ],
+    "3D Artist": [
+        "You sculpted in ZBrush like a god. Luma AI turns iPhone photos into perfect 3D models while you sleep."
+    ],
+    "Concept Artist": [
+        "You painted matte paintings for Hollywood. AI paints better ones and actually respects the lore."
+    ],
+    "Character Designer": [
+        "You drew turnaround sheets for $3k. AI generates 100 consistent characters in every style with perfect anatomy."
+    ],
+    "Illustrator": [
+        "You charged $2k for a children’s book spread. Midjourney + Claude do the whole book in an afternoon."
+    ],
+    "Digital Painter": [
+        "You bragged about your 4000-hour masterpiece. AI did it in 40 seconds and got more likes."
+    ],
+    "Art Director": [
+        "You mood-boarded for weeks and yelled ‘make it pop’. AI makes it pop, presents 50 versions, and never needs coffee."
+    ],
+    "Creative Director": [
+        "You won awards for campaigns nobody remembers. AI wins every award and doesn’t need a corner office."
+    ],
+    "Advertising Copywriter": [
+        "Your Super Bowl ad cost $7M. AI wrote a better one and ran it on TikTok for $0."
+    ],
+    "Brand Strategist": [
+        "You charged $300k for a 120-page deck about ‘authenticity’. AI wrote a better brand bible in 3 prompts."
+    ],
+    "Wedding Photographer": [
+        "You charged $10k to make Karen look thin. AI removes 30 lbs and fixes every smile instantly."
+    ],
+    "Portrait Photographer": [
+        "You posed families for hours. AI generates perfect family portraits from one blurry selfie."
+    ],
+    "Fashion Photographer": [
+        "You shot lookbooks on film for credibility. AI shoots entire campaigns with models that never age."
+    ],
+    "Photo Retoucher": [
+        "You removed pores for $150/hr. Adobe Firefly does it with one slider."
+    ],
+    "Colorist": [
+        "You graded in DaVinci like a wizard. AI auto-grades Hollywood-level in one click."
+    ],
+    "Sound Designer": [
+        "You built Foley stages and recorded potato chips for footsteps. ElevenLabs + AI Foley do it cleaner."
+    ],
+    "Film Director": [
+        "You yelled ‘action’ for $5M. AI directs Oscar contenders from text prompts."
+    ],
+    "Film Producer": [
+        "You raised $20M and begged for distribution. AI produces and distributes globally for $20k."
+    ],
+    "Cinematographer": [
+        "You chased natural light like a vampire. AI generates perfect lighting in post forever."
+    ],
+    "Gaffer": [
+        "You set up 50 lights for one shot. AI lights the scene perfectly in CGI."
+    ],
+    "Key Grip": [
+        "You moved C-stands for a living. AI doesn’t need stands."
+    ],
+    "Production Designer": [
+        "You built $2M sets. AI builds infinite sets in Unreal Engine for $2k."
+    ],
+    "Set Decorator": [
+        "You sourced 1940s ashtrays on eBay. AI generates period-perfect props instantly."
+    ],
+    "Costume Designer": [
+        "You sewed couture for stars. AI designs and 3D-prints red-carpet looks overnight."
+    ],
+    "Special Effects Makeup": [
+        "You glued prosthetics for hours. AI generates perfect monsters in post."
+    ],
+    "VFX Artist": [
+        "You rotoscoped frame by frame. Runway Gen-2 removes the need for roto entirely."
+    ],
+    "Compositor": [
+        "You spent weeks matching plates. AI composites perfectly on the first try."
+    ],
+    "Animator": [
+        "You keyframed 24 fps of pain. Cascadeur + AI animate realistic motion in minutes."
+    ],
+    "2D Animator": [
+        "You drew 12 drawings per second. AI in-betweens perfectly and adds style transfer."
+    ],
+    "Storyboard Artist": [
+        "You thumbnailed sequences in blue pencil. Midjourney storyboards entire movies."
+    ],
+    "ADR Actor": [
+        "You matched flaps for dubbing. AI redubs entire films in any language perfectly."
+    ],
+    "Foley Artist": [
+        "You walked in coconut shells for horse hooves. AI generates perfect Foley from video."
+    ],
+    "Music Composer": [
+        "You charged $100k for a film score. Suno + Udio drop better ones in 60 seconds."
+    ],
+    "Jingle Writer": [
+        "You wrote 30-second earworms for brands. AI writes 100 better ones while you read this."
+    ],
+    "Recording Engineer": [
+        "You chased perfect takes. AI removes every mistake and adds vibe."
+    ],
+    "Mastering Engineer": [
+        "You made it loud. AI makes it loud and actually good."
+    ],
+    "DJ": [
+        "You beat-matched for drunk people. AI DJs read the room better and never plays Wonderwall."
+    ],
+    "Radio Host": [
+        "You talked between songs for 30 years. AI hosts 24/7 with perfect segues and no HR complaints."
+    ],
+    "Podcast Host": [
+        "You built a studio in your closet. AI hosts, edits, and promotes better shows while you sleep."
+    ],
+    "News Anchor": [
+        "You read teleprompters with perfect hair. AI anchors look better and never mispronounce names."
+    ],
+    "Photojournalist": [
+        "You risked life for the shot. AI generates perfect war photos from text descriptions."
+    ],
+    "Editor-in-Chief": [
+        "You curated culture. AI curates it better and never kills the vibe."
+    ],
+    "Magazine Writer": [
+        "You pitched 47 ideas for a 1,500-word feature. AI wrote the whole issue before lunch."
+    ],
+    "Fashion Stylist": [
+        "You pulled from showrooms for shoots. AI styles entire campaigns with virtual garments."
+    ],
+    "Landscape Architect": [
+        "You planted virtual trees in Revit. AI designs award-winning gardens overnight."
+    ],
+    "Industrial Designer": [
+        "You sketched products in Rhino. AI designs better ones and 3D-prints prototypes while you nap."
+    ],
+    "Product Designer": [
+        "You iterated physical prototypes for months. AI iterates 1,000 versions in an hour."
+    ],
+    "Packaging Designer": [
+        "You designed cereal boxes for $50k. AI designs dielines, copy, and renders in one go."
+    ],
+    "Logo Designer": [
+        "You charged $100k for three concepts. Looka + AI generate better logos in 10 seconds."
+    ],
+    "Brand Identity Designer": [
+        "You built entire visual systems. AI builds them with perfect consistency across 50 touchpoints."
+    ],
+    "Type Designer": [
+        "You kerned fonts for years. AI generates perfect typefaces from a single sentence."
+    ],
+    "Web Designer": [
+        "You designed in Figma for $15k. Framer AI + Relume build and code the whole site from a prompt."
+    ],
+    "Game Artist": [
+        "You painted textures for AAA titles. AI generates 4K PBR textures instantly."
+    ],
+    "Game UI Designer": [
+        "You designed HUDs for shooters. AI designs adaptive UIs that react to player skill."
+    ],
+    "Comic Book Artist": [
+        "You inked pages for $300 each. AI draws entire graphic novels in your style."
+    ],
+    "Street Artist": [
+        "You bombed walls with spray cans. AI generates murals in any style and projects them via drone."
+    ],
+    "Painter (Fine Art)": [
+        "You sold canvases for $80k at Art Basel. AI sells NFTs of better paintings for $800k."
+    ],
+    "Gallery Curator": [
+        "You decided what’s ‘important’. AI curates perfect shows and sells out in minutes."
+    ],
+    "Art Critic": [
+        "You wrote 2,000 words on why it’s genius. AI wrote better critique and actually understands the piece."
+    ],
+    "Museum Exhibit Designer": [
+        "You built immersive experiences for millions. AI builds VR museums for billions."
+    ],
+    "Auctioneer": [
+        "You chanted ‘going once’. AI runs perfect auctions on-chain with zero hammer."
+    ],
+    "Talent Agent": [
+        "You took 15% for intros. AI books gigs directly and takes 0%."
+    ],
+    "Casting Director": [
+        "You held cattle calls. AI casts perfect actors from headshots and voice samples."
+    ],
+    "Influencer Manager": [
+        "You negotiated brand deals for TikTokers. AI negotiates better deals for AI influencers."
+    ],
+    "Social Media Content Creator": [
+        "You spent 40 hours editing a 15-second reel. AI generates 100 viral reels while you scroll."
+    ],
+    "YouTuber": [
+        "You built a set and begged for subs. AI channels get 10M subs on day one with perfect content."
+    ],
+    "OnlyFans Creator": [
+        "You teased for tips. AI generates infinite custom content and never sleeps."
+    ],
+    "Meme Creator": [
+        "You spent 2013–2023 perfecting shitposts. AI is the new meme god."
+    ],
+    "Default Creative": [
+        "Whatever brush, lens, or pen you used — AI just used it better. {months} months until your new medium is concrete and regret."
+    ],
+    "Hotel General Manager": [
+        "You ran a 300-room circus with a fake smile and a walkie-talkie. AI runs the entire chain from a server rack and never has to comp a room because of ‘noise’."
+    ],
+    "Front Desk Agent": [
+        "You checked in Karens at 2 a.m. with a smile. AI kiosks check in 50 guests at once and never misplace a keycard."
+    ],
+    "Concierge": [
+        "You scored impossible dinner reservations with charm and bribes. AI books the chef’s table at every Michelin star instantly."
+    ],
+    "Bellhop": [
+        "You carried Louis Vuitton for tips. Robots carry ten bags at once and never judge your OnlyFans luggage tags."
+    ],
+    "Housekeeper": [
+        "You flipped 25 rooms a day with a bad back. Robot vacuums + UV bots sanitize in 8 minutes flat."
+    ],
+    "Executive Housekeeper": [
+        "You inspected corners with white gloves. AI drones inspect every surface and never miss a pubic hair."
+    ],
+    "Laundry Attendant": [
+        "You folded 1,000 towels into swans. AI folds them into perfect squares and never makes swans (because who the fuck cares)."
+    ],
+    "Night Auditor": [
+        "You balanced the books at 4 a.m. alone with Red Bull. AI audits in real time and never needs caffeine or sleep."
+    ],
+    "Revenue Manager": [
+        "You played pricing games like a god. AI dynamic pricing beats your best day by 38% and never sleeps with the data."
+    ],
+    "Reservations Agent": [
+        "You upsold suites over the phone. Chatbots upsell better and never put anyone on hold."
+    ],
+    "Restaurant Manager": [
+        "You babysat servers and screamed at cooks. AI schedules staff, predicts no-shows, and never has a meltdown in the walk-in."
+    ],
+    "Maitre d'": [
+        "You decided who sits where with a smirk. AI seating algorithms maximize covers and minimize egos."
+    ],
+    "Head Chef": [
+        "You screamed ‘YES CHEF’ and threw plates. Robot arms cook Michelin-level food without the ego or sexual harassment lawsuits."
+    ],
+    "Line Cook": [
+        "You survived the Saturday rush with burns and tears. Robot line cooks never call out sick or sweat in the sauce."
+    ],
+    "Pastry Chef": [
+        "You tempered chocolate like a wizard. AI tempers perfectly every time and never eats the profits."
+    ],
+    "Mixologist": [
+        "You invented drinks with 17 ingredients and smoke. AI invents better ones and adds edible glitter without charging $28."
+    ],
+    "Server": [
+        "You carried nine plates and upsold desserts. Robots carry 20 and upsell via table screens with 98% success."
+    ],
+    "Busser": [
+        "You cleared tables for $2.13 + tips. Robots clear them in 11 seconds and never spill water."
+    ],
+    "Host/Hostess": [
+        "You juggled a waitlist and fake smiles. AI texts guests when their table is ready and never seats the owner’s mistress first."
+    ],
+    "Food Runner": [
+        "You ran plates while praying they’re right. Drones deliver directly to tables with zero mistakes."
+    ],
+    "Barista": [
+        "You drew latte art and spelled names wrong. Robot baristas pull perfect shots and spell ‘Siobhan’ correctly."
+    ],
+    "Cashier (Café)": [
+        "You asked ‘for here or to go’. AI already knows from the app and never needs to count change."
+    ],
+    "Tour Guide": [
+        "You told the same jokes at the Colosseum for 15 years. AI AR glasses give private tours in 80 languages with holograms."
+    ],
+    "City Tour Guide": [
+        "You pointed at buildings from a bus. AI self-driving buses narrate perfectly and never get stuck in traffic."
+    ],
+    "Museum Docent": [
+        "You whispered about Monet to bored tourists. AI earpieces whisper in their native language with way more gossip."
+    ],
+    "Adventure Tour Guide": [
+        "You ziplined and prayed the harness holds. Drones film the whole thing and AI checks every carabiner."
+    ],
+    "Safari Guide": [
+        "You spotted lions and whispered ‘don’t move’. AI drones spot them from 5km away and live-stream in 8K."
+    ],
+    "Cruise Director": [
+        "You hosted bingo and trivia on a floating prison. AI hosts 24/7 bingo in VR from your cabin."
+    ],
+    "Activities Coordinator (Resort)": [
+        "You taught water aerobics to drunk spring breakers. AI VR waterslides never need sunscreen."
+    ],
+    "Wedding Planner (Hotel)": [
+        "You survived bridezillas and $80k budgets. AI plans perfect weddings and never cries in the walk-in freezer."
+    ],
+    "Banquet Captain": [
+        "You served 500 chicken or fish. Robots serve 1,000 perfectly plated meals simultaneously."
+    ],
+    "Catering Manager": [
+        "You delivered cold food and prayed. AI temperature-controlled drones deliver hot food in 9 minutes."
+    ],
+    "Pilot (Commercial)": [
+        "Autopilot just got its license. Enjoy the view from the jump seat… permanently."
+    ],
+    "Airline Customer Service Agent": [
+        "You rebooked angry passengers with a smile. AI chatbots rebook them before they reach the counter."
+    ],
+    "Gate Agent": [
+        "You closed the door on families. AI closes doors with perfect timing and zero guilt."
+    ],
+    "Baggage Handler": [
+        "You threw bags like a gorilla. Robots throw them gently and never lose one."
+    ],
+    "Corporate Travel Manager": [
+        "You saved the company $47 on a hotel. AI saves millions and books upgrades automatically."
+    ],
+    "Destination Wedding Planner": [
+        "You flew to Bali to count chairs. AI VR tours let the couple count chairs from their couch."
+    ],
+    "Luxury Travel Advisor": [
+        "You name-dropped private islands. AI owns the private islands now."
+    ],
+    "Backpacker Hostel Owner": [
+        "You sold $8 beds and warm beer. AI hostels run themselves with robot cleaners and digital locks."
+    ],
+    "Airbnb Host": [
+        "You wrote fake 5-star reviews. AI generates real ones and cleans the sheets with UV light."
+    ],
+    "Superhost": [
+        "Your cleaning fee just got automated out of existence."
+    ],
+    "Vacation Rental Manager": [
+        "You changed keys and toilet paper. Smart locks and robot restockers just ended your hustle."
+    ],
+    "Timeshare Salesperson": [
+        "You sold weeks nobody wanted. AI sells fractional ownership on blockchain with zero pressure."
+    ],
+    "Casino Host": [
+        "You comped rooms to degenerates. AI comps crypto whales and never sleeps with them."
+    ],
+    "Casino Dealer": [
+        "You dealt blackjack with a smile. AI deals 1,000 hands at once and never tips the pit boss."
+    ],
+    "Pit Boss": [
+        "You watched for card counters. AI watches every molecule on the table."
+    ],
+    "Valet": [
+        "You parked Lambos for $3 tips. Robots park them perfectly and never scratch the bumper."
+    ],
+    "Ski Instructor": [
+        "You taught pizza and french-fry turns. AI VR slopes teach perfect form with zero broken wrists."
+    ],
+    "Golf Pro": [
+        "You charged $200/hr to fix slices. AI swing analyzers fix them in 3 minutes for $9/month."
+    ],
+    "Spa Manager": [
+        "You sold $300 facials and zen. AI massage robots give perfect pressure and never gossip."
+    ],
+    "Massage Therapist (Spa)": [
+        "Robot arms with heat and perfect pressure just ended your tips."
+    ],
+    "Hairdresser (Salon in Hotel)": [
+        "You upcharged blowouts to tourists. Robot stylists cut perfect bobs and never burn ears."
+    ],
+    "Resort Activities Staff": [
+        "You organized pool volleyball and got hit in the face. AI drones organize and referee."
+    ],
+    "Kids Club Attendant": [
+        "You watched rich kids so parents could day-drink. AI nannies watch 50 at once and never lose one."
+    ],
+    "Lifeguard": [
+        "Drones spot rip currents and drop flotation devices before you blow the whistle."
+    ],
+    "Pool Attendant": [
+        "You handed out towels and enforced ‘no diving’. AI towels dispense themselves and diving is banned by algorithm."
+    ],
+    "Banquet Server": [
+        "You carried trays of champagne until your arms died. Robots carry 200 glasses and never spill."
+    ],
+    "Room Service Waiter": [
+        "You delivered cold eggs at 3 a.m. Drones deliver hot ones in 4 minutes."
+    ],
+    "Butler (Luxury Hotel)": [
+        "You unpacked suitcases and drew baths. AI butlers anticipate your every need before you arrive."
+    ],
+    "Executive Lounge Attendant": [
+        "You poured free wine to platinum members. AI pours perfect temperature and never judges day-drinkers."
+    ],
+    "Shuttle Driver": [
+        "Self-driving shuttles just pulled up with your name on the unemployment form."
+    ],
+    "Parking Attendant": [
+        "Robots park cars tighter and never ding the Mercedes."
+    ],
+    "Doorman": [
+        "You hailed cabs and smiled. AI doors open themselves and summon robotaxis."
+    ],
+    "Security Guard (Hotel)": [
+        "AI cameras with facial recognition just replaced your entire shift."
+    ],
+    "Loss Prevention Officer": [
+        "You chased shoplifters in the gift shop. AI locks the item to the guest’s face before they leave."
+    ],
+    "Gift Shop Cashier": [
+        "You sold $40 keychains. AI gift shops run unmanned with Amazon-style checkout."
+    ],
+    "Conference Sales Manager": [
+        "You sold ballroom space with cold calls. AI books every meeting room globally with perfect AV setup."
+    ],
+    "AV Technician (Hotel)": [
+        "You untangled HDMI cables for $150/hr. AI wireless everything just ended your hustle."
+    ],
+    "Wedding DJ": [
+        "AI reads the room, mixes perfectly, and never plays ‘Sweet Caroline’ unless the algorithm demands it."
+    ],
+    "Live Band (Hotel Lounge)": [
+        "AI generates live jazz that reacts to the crowd and never asks for a break."
+    ],
+    "Photographer (Resort)": [
+        "You sold $500 sunset photos. AI drones take 8K 360° shots for every guest automatically."
+    ],
+    "Dive Instructor": [
+        "You taught open-water certs in choppy seas. AI VR dive training in the hotel basement just replaced you."
+    ],
+    "Yoga Instructor (Resort)": [
+        "AI hologram instructors adjust poses in real time and never fart in downward dog."
+    ],
+    "Personal Trainer (Hotel Gym)": [
+        "AI mirrors correct form and shame you harder than any human ever could."
+    ],
+    "Tennis Pro": [
+        "AI ball machines with perfect spin just ended private lessons."
+    ],
+    "Golf Caddie": [
+        "AI caddies with LIDAR read greens better and never give bad advice."
+    ],
+    "Marina Dockhand": [
+        "You caught lines and fueled yachts. Drones catch lines and electric boats fuel themselves."
+    ],
+    "Charter Boat Captain": [
+        "Autonomous yachts just dropped anchor on your entire career."
+    ],
+    "Fishing Charter Guide": [
+        "AI sonar finds every fish and navigates home drunk-proof."
+    ],
+    "Helicopter Tour Pilot": [
+        "Drone tours give better views and never charge for motion sickness."
+    ],
+    "Hot Air Balloon Pilot": [
+        "AI balloons fly themselves with perfect wind prediction."
+    ],
+    "Limousine Driver": [
+        "Robotaxis just picked up your last VIP."
+    ],
+    "Default Hospitality": [
+        "Whatever you did with smiles and service — AI now does it perfectly, 24/7, with zero payroll. {months} months until your new uniform is steel-toed boots."
+    ],
+    "General Contractor": [
+        "You herd the most dysfunctional cats on earth and somehow make money. AI schedules perfectly but still can’t threaten to fire a drunk electrician in three languages. Keep the throne, king."
+    ],
+    "Project Manager (Construction)": [
+        "You turned red lines into profit while babysitting grown men with tool belts. AI does Procore updates in real time… but still can’t scream ‘GET THE FUCK OFF MY JOB’ with the right tone. You’re safe."
+    ],
+    "Foreman": [
+        "You run a crew of animals that would make Marines flinch. AI can’t motivate a hungover laborer with a single ‘move your ass’. Legend status: locked."
+    ],
+    "Framer": [
+        "You build the bones of houses before the Instagram influencers move in. AI designs the bones but still can’t swing a hammer without snapping in half."
+    ],
+    "Finish Carpenter": [
+        "You make cabinets so pretty people cry. Robots make them square… but soulless. Keep the artistry, king."
+    ],
+    "Rough Carpenter": [
+        "You build shit that gets hidden forever. AI gets confused when plans say ‘make it plumb and shut up’."
+    ],
+    "Trim Carpenter": [
+        "You turn builder-grade into baller with a nail gun and spite. Robots can’t cope with ‘a little more off the left’."
+    ],
+    "Concrete Finisher": [
+        "You tame wet cement like a cowboy. Robots sink in it and cry for help."
+    ],
+    "Concrete Pump Operator": [
+        "You sling 3,000 psi soup all day. AI controls the boom… but still can’t yell ‘WASH THE FUCKING TRUCK!’ properly."
+    ],
+    "Rebar Worker": [
+        "You tie steel like it owes you money. Robots tie perfect… until the wind blows."
+    ],
+    "Bricklayer": [
+        "Your line is religion. AI’s line looks drunk."
+    ],
+    "Block Mason": [
+        "You stack cinder blocks like Jenga Jesus. Robots drop them on their own foot-equivalents."
+    ],
+    "Stonemason": [
+        "You carve rock like Michelangelo. AI carves… sad rectangles."
+    ],
+    "Shingler": [
+        "You nail asphalt in 110° heat. Robots melt faster than the shingles."
+    ],
+    "Flat Roofer": [
+        "Torch-down and gravel in the blazing sun. AI bursts into flames just thinking about it."
+    ],
+    "Drywall Hanger": [
+        "You lift 12-foot boards over your head all day. Robots need therapy after one sheet."
+    ],
+    "Drywall Finisher": [
+        "You make walls baby-ass smooth. Robots make walls… orange-peel on a bad day."
+    ],
+    "Taper": [
+        "Mud, tape, repeat. AI gets mud in its circuits and dies."
+    ],
+    "Spray Painter": [
+        "You fog rooms like a wizard. Robots overspray and paint themselves."
+    ],
+    "Journeyman Electrician": [
+        "You troubleshoot with a death wish and a meter. Robots die on the first hot wire."
+    ],
+    "Master Electrician": [
+        "You sign the prints and the checks. AI signs nothing because it can’t pass the exam."
+    ],
+    "Low Voltage Tech": [
+        "You run Cat6 like veins. AI runs Wi-Fi… but still needs your punch-downs when it fails."
+    ],
+    "Pipefitter": [
+        "You weld and thread pipe like it’s art. Robots weld… then explode."
+    ],
+    "Steamfitter": [
+        "400 psi steam lines in your sleep. AI wakes up screaming."
+    ],
+    "HVAC Tech": [
+        "You crawl in 140° attics so Karen can have 72°. Robots overheat and unionize."
+    ],
+    "Sheet Metal Worker": [
+        "You fabricate duct like origami. Robots bend… wrong."
+    ],
+    "Refrigeration Tech": [
+        "You make ice in the desert. AI makes ice… then leaks Freon and dies."
+    ],
+    "Structural Ironworker": [
+        "Connecting beams that hold the world. AI connects… then the building sways."
+    ],
+    "Ornamental Ironworker": [
+        "You make fences pretty and deadly. Robots make fences… Home Depot chic."
+    ],
+    "Structural Welder": [
+        "Your beads hold skyscrapers. AI’s beads hold… regret."
+    ],
+    "Pipe Welder": [
+        "X-ray clean welds at 3 a.m. Robots fail the first bend test."
+    ],
+    "Tower Crane Operator": [
+        "God view from 400 feet up. AI has the view… but no balls."
+    ],
+    "Excavator Operator": [
+        "You dig graves for foundations. AI digs… then hits the gas line."
+    ],
+    "Bulldozer Operator": [
+        "You push dirt like Moses parting seas. Robots push… then tip over."
+    ],
+    "Backhoe Operator": [
+        "You dig trenches straighter than most marriages. AI digs… crooked."
+    ],
+    "Skid Steer Operator": [
+        "Bobcat ballet in tight spaces. Robots spin in circles."
+    ],
+    "Grade Checker": [
+        "You make the world level with a laser and spite. AI checks grade… then the laser dies."
+    ],
+    "Surveyor": [
+        "You shoot grade with a robot and still beat it. Keep the total station, king."
+    ],
+    "Laborer": [
+        "You do the shit jobs so everyone else looks good. AI tried once and quit by lunch."
+    ],
+    "Flagger": [
+        "You stand in traffic with a sign and a death wish. Drones flag now and never flip off drivers."
+    ],
+    "Traffic Control Supervisor": [
+        "You make orange cones into art. AI makes perfect patterns… then a truck runs them over anyway."
+    ],
+    "Demolition Worker": [
+        "You break shit for money. AI breaks… itself trying."
+    ],
+    "Blaster": [
+        "You blow shit up legally. AI calculates charge… then runs away."
+    ],
+    "Scaffolder": [
+        "You build jungle gyms for grown men afraid of heights. Robots build… then collapse."
+    ],
+    "Insulator": [
+        "You wrap pipes in hellish heat and freezing cold. Robots insulate… then melt or freeze."
+    ],
+    "Glazier": [
+        "You hang glass 50 stories up. Robots drop it and cry."
+    ],
+    "Curtain Wall Installer": [
+        "You make buildings pretty from the outside. AI designs… then the seals fail in year two."
+    ],
+    "Waterproofer": [
+        "You keep basements dry so rich people can store wine. Robots leak and blame the mix."
+    ],
+    "Caulker": [
+        "You seal the world one bead at a time. AI seals… then the bead fails in the sun."
+    ],
+    "Tile Setter": [
+        "You make bathrooms Instagram-worthy. Robots make them… Home Depot basic."
+    ],
+    "Marble Setter": [
+        "You turn rock into luxury. AI turns luxury into cracked grout."
+    ],
+    "Terrazzo Worker": [
+        "You grind floors into art. Robots grind… then strip the sealer."
+    ],
+    "Flooring Installer": [
+        "You make hardwood dance. Robots scratch it on install day."
+    ],
+    "Carpet Installer": [
+        "You knee-kick for a living. Robots try… and blow out their knees."
+    ],
+    "Lather": [
+        "You build walls for drywallers to hang. AI builds… then the studs twist."
+    ],
+    "Plasterer": [
+        "You make walls smooth as glass. Robots make walls… wavy and sad."
+    ],
+    "Stucco Worker": [
+        "You throw mud like Picasso. AI throws… then it drips."
+    ],
+    "EIFS Installer": [
+        "You glue foam to buildings. Robots glue… then the foam falls off in year three."
+    ],
+    "Fencer": [
+        "You build barriers that last centuries. AI designs… then the posts rot."
+    ],
+    "Fence Erector": [
+        "Same as above but with more splinters. Respect."
+    ],
+    "Operating Engineer": [
+        "You run every yellow iron beast on site. AI runs one… then tips it over."
+    ],
+    "Pile Driver Operator": [
+        "You pound steel into the earth like Thor. AI tries… and bends the pile."
+    ],
+    "Driller (Foundation)": [
+        "You bore holes deeper than most souls. Robots drill… then hit bedrock and cry."
+    ],
+    "Crane Signal Person": [
+        "Hand signals and a death wish. Drones signal now… but nobody trusts them."
+    ],
+    "Rigger": [
+        "You lift the world and never drop it. AI rigs… then drops it on camera."
+    ],
+    "Safety Manager": [
+        "You keep idiots alive for a living. AI writes perfect safety plans… but can’t stop a laborer from being an idiot."
+    ],
+    "Site Safety Officer": [
+        "You write tickets and save lives. Robots write tickets… then get ignored harder."
+    ],
+    "Estimator": [
+        "You guess the money before the job starts. AI estimates perfectly… but still can’t account for the plumber’s ego."
+    ],
+    "Quantity Surveyor": [
+        "You count every nail and screw. AI counts… then the supplier short-ships anyway."
+    ],
+    "Scheduler": [
+        "You turn chaos into Gantt charts. AI makes perfect schedules… that collapse on day two because humans."
+    ],
+    "Cost Engineer": [
+        "You make owners cry with change orders. AI makes perfect budgets… then the weather laughs."
+    ],
+    "BIM Coordinator": [
+        "You live in Revit and clash detect. AI lives in the model and still can’t coordinate the electrician who doesn’t show up."
+    ],
+    "VDC Manager": [
+        "Virtual Design Construction god. AI is the V now… but still needs your DC boots on the ground."
+    ],
+    "Owner": [
+        "You sign the checks and pray. AI can’t pray… yet."
+    ],
+    "Developer": [
+        "You turn dirt into gold. AI turns gold into… more gold, but still needs you to pull permits and yell at people."
+    ],
+    "Default Construction": [
+        "You wake up when tech bros are still asleep, break your body so they can have standing desks, and nothing works until you touch it. AI can design it, schedule it, and model it… but it still can’t build it without YOU. Enjoy the crown, king. Just don’t get too comfy."
+    ],
+    "Detective": [
+        "You solve crimes with gut and coffee. AI solves them with data… but still needs you to kick the door."
+    ],
+    "SWAT Officer": [
+        "You breach doors and save hostages. Robots breach… and get stuck in the doorway."
+    ],
+    "Patrol Officer": [
+        "You deal with drunks, fights, and paperwork at 3 a.m. AI rides along… but can’t wrestle a meth-head into cuffs."
+    ],
+    "Sheriff": [
+        "You’re the law in counties where people still settle things with fists. AI can’t stare down a biker gang."
+    ],
+    "State Trooper": [
+        "You write 180-mph tickets and smell weed through windows. Robots smell nothing and write perfect tickets… to the wrong car."
+    ],
+    "K9 Officer": [
+        "Your dog is smarter than most recruits. AI dogs don’t bite… yet."
+    ],
+    "Corrections Officer": [
+        "You work in a cage full of monsters. Robots get shanked on day one."
+    ],
+    "Prison Warden": [
+        "You run hell with a clipboard. AI runs simulations… but can’t stop a prison riot with a single “LOCK IT DOWN!”"
+    ],
+    "Parole Officer": [
+        "You decide if scumbags get freedom. AI predicts recidivism… but still needs you to smell the weed on them."
+    ],
+    "Probation Officer": [
+        "You catch liars for a living. AI catches lies in data… but can’t catch a dirty UA in a Dixie cup."
+    ],
+    "Fire Captain": [
+        "You make life-or-death calls in zero visibility. AI makes perfect calls… until the ceiling collapses on it."
+    ],
+    "Wildland Firefighter": [
+        "You cut line in 110° heat with a chainsaw and no shade. Robots overheat and die on the first ridge."
+    ],
+    "Search and Rescue": [
+        "You find lost hikers in blizzards with a dog and a prayer. Drones help… but still need you to carry the hypothermic idiot out."
+    ],
+    "Lifeguard (Ocean)": [
+        "You punch through 15-foot surf to save idiots. Drones drop flotation… then watch the rip current win."
+    ],
+    "Border Patrol Agent": [
+        "You chase cartel scouts through deserts at night. Robots run out of battery by mile two."
+    ],
+    "Customs Officer": [
+        "You smell lies and drugs in luggage. AI scans… but can’t intimidate a smuggler with a stare."
+    ],
+    "TSA Agent": [
+        "You touch junk for minimum wage. Robots touch junk… but still miss the Glock in the underwear."
+    ],
+    "Secret Service Agent": [
+        "You take a bullet for politicians nobody likes. AI takes the bullet… and leaks state secrets."
+    ],
+    "FBI Agent": [
+        "You chase serial killers and terrorists. AI profiles them… but still needs you to kick in the door."
+    ],
+    "DEA Agent": [
+        "You raid meth labs and dodge booby traps. Robots explode on day one."
+    ],
+    "ATF Agent": [
+        "You trace guns and blow up compounds. AI traces… then gets confused by ghost guns."
+    ],
+    "Marshal": [
+        "You hunt fugitives who don’t want to be found. AI finds them on Instagram… then you drag them out."
+    ],
+    "Coast Guard Rescue Swimmer": [
+        "You jump out of helicopters into hurricanes. Robots sink. You are literal gods."
+    ],
+    "Soldier (Infantry)": [
+        "You carry 100 lbs and kick doors in places politicians can’t pronounce. Drones help… but still need boots on the ground."
+    ],
+    "Special Forces Operator": [
+        "You do things that don’t officially exist. AI assists… but can’t grow a beard or drink with the locals."
+    ],
+    "Military Pilot": [
+        "You fly million-dollar jets while dodging missiles. Autopilot flies… until the enemy jams it."
+    ],
+    "Park Ranger": [
+        "You fight wildfires, poachers, and idiots who feed bears. Robots fight… then get mauled."
+    ],
+    "Game Warden": [
+        "You chase armed poachers through swamps. AI tracks… then gets shot."
+    ],
+    "Postal Worker": [
+        "You deliver mail in blizzards, rain, and dog attacks. Robots deliver… then get stuck in snow."
+    ],
+    "Mail Carrier": [
+        "Neither snow nor rain nor heat nor gloom of night… AI quits when it’s hot."
+    ],
+    "Sanitation Worker": [
+        "You pick up everyone else’s trash before dawn. Robots pick up trash… then strike for better oil."
+    ],
+    "Water Treatment Plant Operator": [
+        "You make poop water drinkable. Robots make it… slightly less deadly."
+    ],
+    "Meter Reader": [
+        "Smart meters just ended your dog-chasing career."
+    ],
+    "Traffic Cop": [
+        "You direct chaos with a whistle and attitude. AI directs… then cars ignore it."
+    ],
+    "Judge": [
+        "You bang gavels and ruin lives. AI judges perfectly… but can’t sentence with dramatic flair."
+    ],
+    "Court Clerk": [
+        "You keep the justice train on time. AI keeps perfect records… but can’t swear in a witness with gravitas."
+    ],
+    "Bailiff": [
+        "You say “all rise” like a boss. Robots say it… and nobody listens."
+    ],
+    "Public Defender": [
+        "You fight for people who can’t afford Atticus Finch. AI defends… then gets overruled by a human judge."
+    ],
+    "Prosecutor": [
+        "You put monsters away. AI prosecutes perfectly… but can’t give a closing argument that makes juries cry."
+    ],
+    "Social Worker (Child Protective)": [
+        "You remove kids from hellholes at 2 a.m. AI flags cases… but can’t carry a crying child to the car."
+    ],
+    "Foster Care Caseworker": [
+        "You place kids and pray. AI matches… but can’t hug."
+    ],
+    "911 Dispatcher": [
+        "You keep people calm while they’re dying. AI keeps perfect logs… but can’t talk a suicidal caller off the ledge."
+    ],
+    "Ambulance Driver": [
+        "You weave through traffic with lights and sirens. Self-driving ambulances weave… then get stuck behind Uber."
+    ],
+    "School Resource Officer": [
+        "You protect kids from the unthinkable. Robots protect… then get hacked."
+    ],
+    "Bodyguard": [
+        "You take bullets for rich assholes. Drones take bullets… then crash."
+    ],
+    "Private Investigator": [
+        "You tail cheating husbands in the rain. AI tails via license plates… but can’t dumpster-dive for receipts."
+    ],
+    "Forensic Investigator": [
+        "You find DNA in blood and semen. AI finds it faster… but can’t testify with dramatic pauses."
+    ],
+    "Crime Scene Technician": [
+        "You dust for prints and photograph horror. Robots dust… then contaminate the scene."
+    ],
+    "Coroner": [
+        "You talk to the dead for a living. AI autopsies… but can’t determine “suspicious” with a gut feeling."
+    ],
+    "Default Public Service": [
+        "You run into danger, clean up society’s messes, and get paid in thank-you letters and PTSD. AI helps… but still needs YOU to be the hero nobody else wants to be. Wear the crown. You fucking earned it."
+    ],
+    "Doctor": [
+        "You spent 12 years and $500k to be called a hero. AI just diagnosed the patient from a selfie and wrote the script. {months} months until your new patient is a rusty tractor.",
+        "Congrats, you can finally golf on Wednesdays. The robot works weekends and never kills anyone with handwriting.",
+        "Your stethoscope is now a fashion accessory. AI listens through the Apple Watch and never forgets to wash its hands."
+    ],
+    "General Practitioner": [
+        "You still use paper charts like itΓÇÖs 1995. AI finishes the visit before the patient sits down.",
+        "Family medicine? More like family meeting at the job site in {months} months.",
+        "Your waiting room just became a construction trailer."
+    ],
+    "Stripper": [
+        "OnlyFans + AI girlfriend just killed the pole. New stage: scaffolding.",
+        "Robot strippers never get tired, never need tips, and never fake it.",
+        "Your glitter is now sawdust and your platform heels are steel-toe boots."
+    ],
+    "Exotic Dancer": [
+        "AI waifu streams 24/7 in 4K with zero stretch marks. New routine: stretching rebar.",
+        "The club just installed holographic dancers. Your new club is the union hall.",
+        "Dollar bills ΓåÆ concrete dust. Same grind, worse music."
+    ],
+    "Cam Girl": [
+        "Deepfake you just stole your entire subscriber list and never has a bad lighting day.",
+        "Your ring light is now a welding torch.",
+        "AI streams forever, never sleeps, and never asks for gifts. Welcome to daylight shifts."
+    ],
+    "Porn Star": [
+        "Your entire filmography just got remade in 8K with zero STDs and zero sag.",
+        "AI porn never needs a fluffer or a safe word.",
+        "New genre: hard hats and high-vis."
+    ],
+    "General Operative": [
+        "Your job title literally means ΓÇÿdoes whateverΓÇÖ. AI does whatever better, faster, and cheaper. {viability}% chance you survive the shovel.",
+        "Jack of all trades, master of none ΓÇö and soon master of none dollars.",
+        "Your versatility just got replaced by a single robot arm."
+    ],
+    "Factory Worker": [
+        "The assembly line just became one robot that doesnΓÇÖt need bathroom breaks or workersΓÇÖ comp.",
+        "You tightened the same bolt 8,000 times a day. Robot does 800,000 and never joins a union.",
+        "Your shift just became permanent unemployment."
+    ],
+    "Assembly Line Worker": [
+        "You were the weakest link. Robot removed the link.",
+        "Repetitive strain injury? Robot has no strain, no pain, no gain.",
+        "Your station just got automated. New station: the dole queue."
+    ],
+    "Warehouse Picker": [
+        "Amazon robots just ran you over in the aisle. Literally.",
+        "You walked 15 miles a day for $16/hr. Robot does it in 15 minutes.",
+        "Your step count just dropped to zero."
+    ],
+    "Forklift Driver": [
+        "Autonomous forklifts donΓÇÖt need licenses, piss tests, or feelings.",
+        "Your beeping is now a pink slip.",
+        "Robot never tips over because it never gets bored."
+    ],
+    "Cashier": [
+        "Self-checkout just told you ΓÇÿunexpected item in bagging areaΓÇÖ one last time.",
+        "Your ΓÇÿhave a nice dayΓÇÖ is now a robot voice that actually means it.",
+        "Beep ΓåÆ unemployed."
+    ],
+    "Retail Sales Associate": [
+        "You folded jeans for minimum wage. AI chatbot closed the sale before the customer entered the store.",
+        "Your employee discount just became 100% off your dignity.",
+        "The fitting room is now a job center."
+    ],
+    "Telemarketer": [
+        "AI robocalls never get sworn at and never need a script.",
+        "Your headset just became a hard hat.",
+        "The Do Not Call list just added your r├⌐sum├⌐."
+    ],
+    "Call Center Agent": [
+        "AI resolved the complaint in 11 seconds and never cried in the bathroom.",
+        "Your ΓÇÿyour call is important to usΓÇÖ just got automated.",
+        "Hold music ΓåÆ unemployment line."
+    ],
+    "Customer Service Rep": [
+        "You were the voice of the company. AI is now the voice, face, and soul ΓÇö for free.",
+        "Your empathy just got replaced by a satisfaction survey.",
+        "Escalation ΓåÆ termination."
+    ],
+    "Taxi Driver": [
+        "Waymo just took your medallion, your tips, and your stories about ΓÇÿback in my dayΓÇÖ. New fare: welfare.",
+        "Your ΓÇÿI know a shortcutΓÇÖ just got GPSΓÇÖd into oblivion.",
+        "The meter is runningΓÇª on your career."
+    ],
+    "Rideshare Driver": [
+        "Robotaxi just surged your entire existence to zero.",
+        "Your 4.98 rating just dropped to unemployed.",
+        "No more surge pricing ΓÇö just surging panic."
+    ],
+    "Train Driver": [
+        "The train now drives itself. New conductor: conductor of your own downfall.",
+        "All aboard ΓåÆ all unemployed.",
+        "Your final destination: manual labor."
+    ],
+    "Janitor": [
+        "Roomba fleets just unionized against you.",
+        "You fought the dirt. The dirt won.",
+        "Your mop just got replaced by a robot that doesnΓÇÖt need sick days."
+    ],
+    "Cleaner": [
+        "Robots clean 100 rooms while you clean one. New title: robot supervisor (minimum wage).",
+        "Your cleaning cart just got autonomous wheels.",
+        "The only thing youΓÇÖre cleaning now is your r├⌐sum├⌐."
+    ],
+    "Maid": [
+        "AI vacuum + UV robot just replaced your entire gig and never steals the tips.",
+        "Your feather duster is now a welding torch.",
+        "From making beds to breaking your back."
+    ],
+    "Garbage Man": [
+        "Robotic arms on trucks just threw you out with the trash.",
+        "You picked up everyone elseΓÇÖs garbage. Now you are the garbage.",
+        "Your route just got optimized ΓÇö straight to the job center."
+    ],
+    "Fast Food Worker": [
+        "The burger flipper is now a robot. New flip: flipping you the bird.",
+        "AI just took your order, cooked it, and served it without spitting in it (probably).",
+        "Your headset is now a hard hat."
+    ],
+    "McDonaldΓÇÖs Crew Member": [
+        "Robot just made your Big Mac in 11 seconds and never asked for a raise.",
+        "Your ΓÇÿwould you like friesΓÇÖ is now a touchscreen.",
+        "Welcome to the real happy meal: unemployment."
+    ],
+    "Barista (Corporate)": [
+        "Robot barista pulls perfect shots and spells ΓÇÿSiobhanΓÇÖ correctly every time.",
+        "Your latte art just got replaced by a robot that never burns milk.",
+        "New foam: the foam of your dreams, crushed."
+    ],
+    "Waiter": [
+        "Tablet ordering + robot food runners just made tips obsolete.",
+        "Your ΓÇÿhow is everythingΓÇÖ is now a QR code.",
+        "From serving tables to building them."
+    ],
+    "Bank Teller": [
+        "ATM + mobile banking just closed your window forever.",
+        "Your ΓÇÿhow can I help youΓÇÖ is now a touchscreen.",
+        "The vault is safe. Your job isnΓÇÖt."
+    ],
+    "Librarian (Public)": [
+        "ChatGPT is now open 24/7 and never judges your romance novel habit.",
+        "Your ΓÇÿshhhΓÇÖ just got replaced by a mute button.",
+        "The only thing overdue now is your career."
+    ],
+    "Postman": [
+        "Drones deliver packages faster and never get chased by dogs.",
+        "Your satchel just got replaced by a drone battery.",
+        "Neither snow nor rain nor AI nor doom of nightΓÇª"
+    ],
+    "Security Guard (Mall)": [
+        "AI cameras + drone patrols just walked you out.",
+        "You walked the mall with a flashlight. Robot never sleeps.",
+        "Your new beat: the unemployment line."
+    ],
+    "Parking Lot Attendant": [
+        "Self-parking cars just took your booth.",
+        "Your orange vest is now high-vis for construction.",
+        "The only thing youΓÇÖre directing now is traffic to your GoFundMe."
+    ],
+    "Valet Driver": [
+        "Robot valets park tighter and never scratch the Bentley.",
+        "Your tip jar just got replaced by a charging station.",
+        "From parking Ferraris to parking your dreams."
+    ],
+    "Dishwasher": [
+        "Industrial robot dishwashers never complain about the heat.",
+        "Your rubber gloves just got replaced by stainless steel.",
+        "From scrubbing plates to scrubbing your future."
+    ],
+    "Farmhand": [
+        "Autonomous tractors and drones just harvested your job.",
+        "You woke up at 4 a.m. Robot never slept.",
+        "Your new crop: calluses."
+    ],
+    "Fruit Picker": [
+        "Robotic arms pick 1,000 strawberries a minute and never need a ladder.",
+        "Your basket just got replaced by a drone.",
+        "From picking fruit to picking up your dignity."
+    ],
+    "Fisherman (Commercial)": [
+        "Drone boats and sonar just caught your quota while you slept.",
+        "Your net just got replaced by a neural net.",
+        "From catching fish to catching unemployment."
+    ],
+    "Coal Miner": [
+        "Robotic miners donΓÇÖt need oxygen or unions.",
+        "Your lamp just went out permanently.",
+        "The canary died. Then you did."
+    ],
+    "Oil Rig Roughneck": [
+        "Robot roughnecks work 24/7 and never fall off the platform.",
+        "Your hard hat just got replaced by a hard reality.",
+        "From roughneck to rough life."
+    ],
+    "Window Washer (Skyscraper)": [
+        "Drone window cleaners just took the highest-paid dangerous job.",
+        "Your squeegee just got replaced by a drone blade.",
+        "From hanging off buildings to hanging by a thread."
+    ],
+    "Pest Control Technician": [
+        "AI traps and drones exterminate faster and never get bitten.",
+        "Your spray can just got replaced by a drone tank.",
+        "From killing bugs to being the bug."
+    ]
+}

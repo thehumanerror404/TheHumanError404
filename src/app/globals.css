@@ -1,0 +1,126 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    /* Material Design 3 Dark Theme Tokens */
+    --md-sys-color-background: #141218;
+    --md-sys-color-on-background: #E6E1E5;
+    --md-sys-color-surface: #141218;
+    --md-sys-color-surface-container: #1D1B20;
+    --md-sys-color-surface-container-high: #2B2930;
+    --md-sys-color-on-surface: #E6E1E5;
+    --md-sys-color-on-surface-variant: #CAC4D0;
+    --md-sys-color-primary: #D0BCFF;
+    --md-sys-color-on-primary: #381E72;
+    --md-sys-color-primary-container: #4F378B;
+    --md-sys-color-on-primary-container: #EADDFF;
+    --md-sys-color-secondary: #CCC2DC;
+    --md-sys-color-on-secondary: #332D41;
+    --md-sys-color-secondary-container: #4A4458;
+    --md-sys-color-on-secondary-container: #E8DEF8;
+    --md-sys-color-error: #F2B8B5;
+    --md-sys-color-outline: #938F99;
+    --md-sys-color-outline-variant: #49454F;
+}
+
+body {
+    color: var(--md-sys-color-on-background);
+    background-color: var(--md-sys-color-background);
+    /* Font is handled by Next.js font loader in layout.tsx */
+}
+
+@layer utilities {
+    .text-balance {
+        text-wrap: balance;
+    }
+}
+
+/* Pixel Robot Styles */
+.pixel-robot-container {
+    position: fixed;
+    bottom: 20px;
+    right: -50px;
+    /* Start off-screen */
+    z-index: 50;
+    animation: walk-across 20s linear infinite;
+    transform: scale(3);
+    /* Make it bigger */
+    image-rendering: pixelated;
+}
+
+.pixel-robot {
+    position: relative;
+    width: 10px;
+    height: 10px;
+}
+
+/* 
+  Pixel Art using box-shadow 
+  1 pixel = 1px
+  Color: var(--md-sys-color-primary) (Light Purple)
+*/
+.robot-body {
+    width: 1px;
+    height: 1px;
+    background-color: transparent;
+    color: var(--md-sys-color-primary);
+    box-shadow:
+        /* Head */
+        2px 0, 3px 0, 4px 0, 5px 0, 6px 0,
+        1px 1px, 7px 1px,
+        1px 2px, 3px 2px, 5px 2px, 7px 2px,
+        /* Eyes */
+        1px 3px, 7px 3px,
+        2px 4px, 3px 4px, 4px 4px, 5px 4px, 6px 4px,
+
+        /* Body */
+        2px 5px, 6px 5px,
+        1px 6px, 2px 6px, 3px 6px, 4px 6px, 5px 6px, 6px 6px, 7px 6px,
+        1px 7px, 3px 7px, 4px 7px, 5px 7px, 7px 7px,
+        1px 8px, 2px 8px, 3px 8px, 4px 8px, 5px 8px, 6px 8px, 7px 8px,
+
+        /* Legs */
+        2px 9px, 6px 9px,
+        1px 10px, 7px 10px;
+
+    animation: dance 1s steps(2) infinite;
+}
+
+@keyframes walk-across {
+    0% {
+        right: -50px;
+        transform: scale(3) scaleX(1);
+    }
+
+    45% {
+        right: 45%;
+        transform: scale(3) scaleX(1);
+    }
+
+    50% {
+        right: 50%;
+        transform: scale(3) scaleX(1);
+    }
+
+    55% {
+        right: 50%;
+        transform: scale(3) scaleX(-1);
+        /* Turn around */
+    }
+
+    100% {
+        right: 110%;
+        transform: scale(3) scaleX(-1);
+    }
+}
+
+@keyframes dance {
+    0% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(-1px);
+    }
+}

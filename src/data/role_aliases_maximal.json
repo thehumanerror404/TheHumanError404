@@ -1,0 +1,1375 @@
+{
+  "Software Engineer": [
+    "se",
+    "software developer",
+    "programmer",
+    "coder"
+  ],
+  "Frontend Engineer": [
+    "fe",
+    "frontend developer"
+  ],
+  "Backend Engineer": [
+    "backend developer",
+    "be"
+  ],
+  "Full-Stack Developer": [
+    "full stack developer",
+    "full-stack engineer",
+    "full-stackdeveloper",
+    "fullstack developer"
+  ],
+  "DevOps Engineer": [
+    "devops developer"
+  ],
+  "Site Reliability Engineer": [
+    "site reliability developer",
+    "sre"
+  ],
+  "Cloud Architect": [],
+  "Blockchain Developer": [
+    "blockchain engineer"
+  ],
+  "Smart Contract Developer": [
+    "scd",
+    "smart contract engineer"
+  ],
+  "Crypto Trader": [],
+  "NFT Artist": [],
+  "Metaverse Real-Estate Agent": [
+    "metaverse real estate agent",
+    "metaverse realestate agent",
+    "metaversereal-estateagent",
+    "mra"
+  ],
+  "Prompt Engineer": [
+    "prompt developer"
+  ],
+  "AI Ethics Officer": [
+    "aeo"
+  ],
+  "Data Scientist": [],
+  "Machine Learning Engineer": [
+    "machine learning developer",
+    "mle"
+  ],
+  "Data Analyst": [],
+  "Business Intelligence Analyst": [
+    "bia"
+  ],
+  "Product Manager": [
+    "pm"
+  ],
+  "Technical Product Manager": [
+    "tpm"
+  ],
+  "Growth Product Manager": [
+    "gpm"
+  ],
+  "UX Designer": [],
+  "UI Designer": [],
+  "Graphic Designer": [],
+  "Motion Designer": [],
+  "Copywriter": [],
+  "Content Creator": [],
+  "Social Media Manager": [
+    "smm"
+  ],
+  "SEO Specialist": [],
+  "Digital Marketing Manager": [
+    "dmm"
+  ],
+  "Growth Hacker": [],
+  "Lawyer": [],
+  "Paralegal": [],
+  "Corporate Lawyer": [],
+  "Consultant": [],
+  "Management Consultant": [],
+  "Strategy Consultant": [],
+  "Recruiter": [],
+  "Technical Recruiter": [],
+  "HR Business Partner": [
+    "hbp"
+  ],
+  "Finance Bro": [],
+  "Investment Banker": [],
+  "Private Equity Associate": [
+    "pea"
+  ],
+  "Venture Capitalist": [],
+  "Journalist": [],
+  "Tech Journalist": [],
+  "Teacher": [],
+  "Professor": [],
+  "Middle Manager": [],
+  "CEO": [],
+  "Startup Founder": [],
+  "Chief of Staff": [
+    "cos"
+  ],
+  "Operations Manager": [],
+  "Customer Success Manager": [
+    "csm"
+  ],
+  "Sales Development Rep": [
+    "sdr"
+  ],
+  "Account Executive": [],
+  "Solutions Engineer": [
+    "se",
+    "solutions developer"
+  ],
+  "Technical Account Manager": [
+    "tam"
+  ],
+  "Community Manager": [],
+  "Influencer Marketing Manager": [
+    "imm"
+  ],
+  "Performance Marketing Manager": [
+    "pmm"
+  ],
+  "Brand Manager": [],
+  "Public Relations Manager": [
+    "prm"
+  ],
+  "Event Planner": [],
+  "Real Estate Agent": [
+    "rea"
+  ],
+  "Mortgage Broker": [],
+  "Insurance Agent": [],
+  "Travel Agent": [],
+  "Wedding Planner": [],
+  "Executive Assistant": [
+    "administrative assistant",
+    "admin assistant",
+    "admin"
+  ],
+  "Office Manager": [],
+  "Receptionist": [],
+  "Librarian": [],
+  "Archivist": [],
+  "Translator": [],
+  "Interpreter": [],
+  "Voice Actor": [],
+  "Radio DJ": [],
+  "Photographer": [],
+  "Videographer": [],
+  "Video Editor": [],
+  "Sound Engineer": [
+    "se",
+    "sound developer"
+  ],
+  "Music Producer": [],
+  "Game Designer": [],
+  "Game Developer": [
+    "game engineer"
+  ],
+  "QA Tester": [],
+  "Technical Writer": [],
+  "Proposal Writer": [],
+  "Grant Writer": [],
+  "Speechwriter": [],
+  "Screenwriter": [],
+  "Novelist": [],
+  "Poet": [],
+  "Comedian": [],
+  "Life Coach": [],
+  "Therapist": [],
+  "Yoga Instructor": [],
+  "Personal Trainer": [],
+  "Nutritionist": [],
+  "Dietician": [],
+  "Psychologist": [],
+  "Psychiatrist": [],
+  "Surgeon": [],
+  "Nurse": [],
+  "Pharmacist": [],
+  "Dentist": [],
+  "Veterinarian": [],
+  "Architect": [],
+  "Civil Engineer": [
+    "civil developer"
+  ],
+  "Mechanical Engineer": [
+    "mechanical developer"
+  ],
+  "Electrical Engineer": [
+    "electrical developer"
+  ],
+  "Chemical Engineer": [
+    "chemical developer"
+  ],
+  "Aerospace Engineer": [
+    "aerospace developer"
+  ],
+  "Biomedical Engineer": [
+    "be",
+    "biomedical developer"
+  ],
+  "Environmental Scientist": [],
+  "Geologist": [],
+  "Meteorologist": [],
+  "Accountant": [],
+  "Tax Advisor": [],
+  "Bookkeeper": [],
+  "Auditor": [],
+  "Financial Planner": [],
+  "Stock Trader": [],
+  "Hedge Fund Manager": [
+    "hfm"
+  ],
+  "Real Estate Developer": [
+    "real estate engineer",
+    "red"
+  ],
+  "Property Manager": [
+    "pm"
+  ],
+  "Appraiser": [],
+  "Interior Designer": [],
+  "Fashion Designer": [],
+  "Stylist": [],
+  "Makeup Artist": [],
+  "Hairdresser": [],
+  "Chef": [],
+  "Sous Chef": [],
+  "Bartender": [],
+  "Sommelier": [],
+  "Flight Attendant": [],
+  "Pilot": [],
+  "Air Traffic Controller": [
+    "atc"
+  ],
+  "Truck Driver": [],
+  "Delivery Driver": [],
+  "Uber Driver": [],
+  "Bus Driver": [],
+  "Train Conductor": [],
+  "Plumber": [],
+  "Electrician": [],
+  "Welder": [],
+  "Carpenter": [],
+  "Mason": [],
+  "HVAC Technician": [],
+  "Roofer": [],
+  "Painter": [],
+  "Drywaller": [],
+  "Landscaper": [],
+  "Tree Surgeon": [],
+  "Heavy Equipment Operator": [
+    "heo"
+  ],
+  "Crane Operator": [],
+  "Mechanic": [],
+  "Auto Mechanic": [],
+  "Diesel Mechanic": [],
+  "Farmer": [],
+  "Rancher": [],
+  "Fisherman": [],
+  "Lobsterman": [],
+  "Construction Worker": [],
+  "Ironworker": [],
+  "Lineman": [],
+  "Oil Rig Worker": [
+    "orw"
+  ],
+  "Miner": [],
+  "Logger": [],
+  "Firefighter": [],
+  "Paramedic": [],
+  "Police Officer": [],
+  "Correctional Officer": [],
+  "Security Guard": [],
+  "Bouncer": [],
+  "Garbage Collector": [],
+  "Wastewater Treatment Operator": [
+    "wto"
+  ],
+  "Pest Control": [],
+  "Exterminator": [],
+  "Septic Tank Technician": [
+    "stt"
+  ],
+  "Chimney Sweep": [],
+  "Window Cleaner": [],
+  "Locksmith": [],
+  "Tow Truck Driver": [
+    "ttd"
+  ],
+  "Funeral Director": [],
+  "Embalmer": [],
+  "Gravedigger": [],
+  "Surgeon Assistant": [],
+  "Anesthesiologist": [],
+  "Midwife": [],
+  "Neonatal Nurse": [],
+  "Hospice Nurse": [],
+  "Elderly Caregiver": [],
+  "Childcare Worker": [],
+  "Special Education Teacher": [
+    "set"
+  ],
+  "Physical Therapist": [],
+  "Occupational Therapist": [],
+  "Speech Therapist": [],
+  "Massage Therapist": [],
+  "Tattoo Artist": [],
+  "Piercer": [],
+  "Barber": [],
+  "Manicurist": [],
+  "Esthetician": [],
+  "Tailor": [],
+  "Shoe Cobbler": [],
+  "Blacksmith": [],
+  "Glassblower": [],
+  "Potter": [],
+  "Sculptor": [],
+  "Street Musician": [],
+  "Stand-up Comedian": [
+    "stand up comedian",
+    "stand-upcomedian",
+    "standup comedian"
+  ],
+  "Actor": [],
+  "Stunt Performer": [],
+  "Default": [],
+  "TikTok Strategist": [],
+  "OnlyFans Manager": [],
+  "Dropshipping Guru": [],
+  "LinkedIn Influencer": [],
+  "Career Coach": [],
+  "Executive Coach": [],
+  "Agile Coach": [],
+  "Scrum Master": [],
+  "Chief Happiness Officer": [
+    "cho"
+  ],
+  "Chief Diversity Officer": [
+    "cdo"
+  ],
+  "Metaverse Architect": [],
+  "Web3 Community Manager": [
+    "wcm"
+  ],
+  "DAO Contributor": [],
+  "Crypto Compliance Officer": [
+    "cco"
+  ],
+  "DeFi Yield Farmer": [
+    "dyf"
+  ],
+  "Meme Lord": [
+    "ml"
+  ],
+  "Professional Gamer": [],
+  "Esports Coach": [],
+  "Twitch Streamer": [],
+  "YouTube Editor": [],
+  "Podcast Producer": [],
+  "Virtual Assistant": [],
+  "Cold Email Copywriter": [
+    "cec"
+  ],
+  "Funnel Hacker": [],
+  "Conversion Rate Optimizer": [
+    "cro"
+  ],
+  "No-Code Developer": [
+    "no code developer",
+    "no-code engineer",
+    "no-codedeveloper",
+    "nocode developer"
+  ],
+  "Bubble Consultant": [],
+  "Airtable Wizard": [],
+  "Zapier Automation Expert": [
+    "zae"
+  ],
+  "Notion Consultant": [],
+  "Chief Meme Officer": [
+    "cmo"
+  ],
+  "Head of Remote": [
+    "hor"
+  ],
+  "Fractional CMO": [],
+  "Growth Advisor": [],
+  "Startup Advisor": [],
+  "Angel Investor": [
+    "ai"
+  ],
+  "Venture Partner": [
+    "vp"
+  ],
+  "Podcast Guest Booker": [
+    "pgb"
+  ],
+  "Personal Brand Strategist": [
+    "pbs"
+  ],
+  "Twitter Ghostwriter": [],
+  "Newsletter Writer": [],
+  "Course Creator": [],
+  "Mastermind Host": [],
+  "Keynote Speaker": [],
+  "TEDx Speaker": [],
+  "Professional Networker": [],
+  "Clubhouse Moderator": [],
+  "BeReal Community Manager": [
+    "bcm"
+  ],
+  "Head of Innovation": [
+    "hoi"
+  ],
+  "Futurist": [],
+  "Medical Assistant": [],
+  "Physician Assistant": [],
+  "Registered Nurse": [],
+  "Licensed Practical Nurse": [
+    "lpn"
+  ],
+  "Nursing Assistant": [],
+  "Home Health Aide": [
+    "hha"
+  ],
+  "Certified Nursing Assistant": [
+    "cna"
+  ],
+  "Nurse Practitioner": [],
+  "Clinical Nurse Specialist": [
+    "cns"
+  ],
+  "Geriatric Nurse": [],
+  "Pediatric Nurse": [],
+  "Oncology Nurse": [],
+  "Cardiology Nurse": [],
+  "Emergency Room Nurse": [
+    "ern"
+  ],
+  "Critical Care Nurse": [
+    "ccn"
+  ],
+  "Operating Room Nurse": [
+    "orn"
+  ],
+  "Labor and Delivery Nurse": [
+    "ladn"
+  ],
+  "Dialysis Nurse": [],
+  "Respiratory Therapist": [],
+  "Radiologic Technologist": [],
+  "MRI Technologist": [],
+  "CT Scan Technologist": [
+    "cst"
+  ],
+  "Ultrasound Technologist": [],
+  "Nuclear Medicine Technologist": [
+    "nmt"
+  ],
+  "Radiation Therapist": [],
+  "Medical Laboratory Technician": [
+    "mlt"
+  ],
+  "Clinical Laboratory Scientist": [
+    "cls"
+  ],
+  "Phlebotomist": [],
+  "Histotechnologist": [],
+  "Cytotechnologist": [],
+  "Medical Transcriptionist": [],
+  "Health Information Technician": [
+    "hit"
+  ],
+  "Medical Coder": [],
+  "Medical Biller": [],
+  "Patient Access Representative": [
+    "par"
+  ],
+  "Admissions Coordinator": [],
+  "Patient Advocate": [],
+  "Case Manager": [],
+  "Social Worker": [],
+  "Clinical Social Worker": [
+    "csw"
+  ],
+  "Dietitian": [],
+  "Registered Dietitian": [],
+  "Audiologist": [],
+  "Optometrist": [],
+  "Ophthalmic Technician": [],
+  "Chiropractor": [],
+  "Podiatrist": [],
+  "Orthotist": [],
+  "Prosthetist": [],
+  "EMT": [],
+  "Surgical Technologist": [],
+  "Perioperative Nurse": [],
+  "Endoscopy Technician": [],
+  "Cardiovascular Technologist": [],
+  "Electroneurodiagnostic Technologist": [],
+  "Polysomnographic Technologist": [],
+  "Biomedical Equipment Technician": [
+    "bet"
+  ],
+  "Healthcare Administrator": [],
+  "Medical Director": [],
+  "Chief Medical Officer": [
+    "cmo"
+  ],
+  "Quality Improvement Coordinator": [
+    "qic"
+  ],
+  "Compliance Officer": [],
+  "Risk Manager": [],
+  "Epidemiologist": [],
+  "Biostatistician": [],
+  "Health Policy Analyst": [
+    "hpa"
+  ],
+  "Public Health Educator": [
+    "phe"
+  ],
+  "Environmental Health Specialist": [
+    "ehs"
+  ],
+  "Occupational Health Nurse": [
+    "ohn"
+  ],
+  "Industrial Hygienist": [],
+  "Toxicologist": [],
+  "Genetic Counselor": [],
+  "Bioethicist": [],
+  "Medical Illustrator": [],
+  "Health Informatics Specialist": [
+    "his"
+  ],
+  "Telemedicine Coordinator": [],
+  "Medical Writer": [],
+  "Regulatory Affairs Specialist": [
+    "ras"
+  ],
+  "Clinical Research Coordinator": [
+    "crc"
+  ],
+  "Grant Administrator": [],
+  "Healthcare Consultant": [],
+  "Medical Sales Representative": [
+    "msr"
+  ],
+  "Pharmaceutical Sales Rep": [
+    "psr"
+  ],
+  "Dental Hygienist": [],
+  "Dental Assistant": [],
+  "Orthodontic Assistant": [],
+  "Endodontist": [],
+  "Periodontist": [],
+  "Oral Surgeon": [],
+  "Prosthodontist": [],
+  "Ophthalmologist": [],
+  "Optician": [],
+  "Chiropractic Assistant": [],
+  "Acupuncturist": [],
+  "Naturopathic Doctor": [],
+  "Homeopathic Practitioner": [],
+  "Sports Medicine Physician": [
+    "smp"
+  ],
+  "Orthopedic Surgeon": [],
+  "Neurologist": [],
+  "Neurosurgeon": [],
+  "Cardiologist": [],
+  "Gastroenterologist": [],
+  "Dermatologist": [],
+  "Endocrinologist": [],
+  "Rheumatologist": [],
+  "Pulmonologist": [],
+  "Nephrologist": [],
+  "Urologist": [],
+  "Obstetrician": [],
+  "Gynecologist": [],
+  "Pediatrician": [],
+  "Oncologist": [],
+  "Hematologist": [],
+  "Infectious Disease Specialist": [
+    "ids"
+  ],
+  "Allergist": [],
+  "Immunologist": [],
+  "Geriatrician": [],
+  "Palliative Care Physician": [
+    "pcp"
+  ],
+  "Pain Management Specialist": [
+    "pms"
+  ],
+  "Elementary School Teacher": [
+    "est"
+  ],
+  "Middle School Teacher": [
+    "mst"
+  ],
+  "High School Teacher": [
+    "hst"
+  ],
+  "Principal": [],
+  "Vice Principal": [
+    "vp"
+  ],
+  "School Counselor": [],
+  "Guidance Counselor": [],
+  "School Librarian": [],
+  "ESL Teacher": [],
+  "Substitute Teacher": [],
+  "Preschool Teacher": [],
+  "Kindergarten Teacher": [],
+  "Montessori Teacher": [],
+  "Waldorf Teacher": [],
+  "Art Teacher": [],
+  "Music Teacher": [],
+  "Band Director": [],
+  "Choir Director": [],
+  "Drama Teacher": [],
+  "PE Teacher": [],
+  "Coach": [],
+  "Athletic Director": [],
+  "Math Teacher": [],
+  "Algebra Teacher": [],
+  "Calculus Teacher": [],
+  "Geometry Teacher": [],
+  "Science Teacher": [],
+  "Chemistry Teacher": [],
+  "Physics Teacher": [],
+  "Biology Teacher": [],
+  "AP Biology Teacher": [
+    "abt"
+  ],
+  "English Teacher": [],
+  "Literature Teacher": [],
+  "History Teacher": [],
+  "Social Studies Teacher": [
+    "sst"
+  ],
+  "Geography Teacher": [],
+  "Economics Teacher": [],
+  "Government Teacher": [],
+  "Psychology Teacher": [],
+  "Sociology Teacher": [],
+  "Foreign Language Teacher": [
+    "flt"
+  ],
+  "Spanish Teacher": [],
+  "French Teacher": [],
+  "Latin Teacher": [],
+  "ASL Teacher": [],
+  "Computer Science Teacher": [
+    "cst"
+  ],
+  "Coding Bootcamp Instructor": [
+    "cbi"
+  ],
+  "Robotics Teacher": [],
+  "STEM Coordinator": [],
+  "Gifted and Talented Teacher": [
+    "gatt"
+  ],
+  "Remedial Teacher": [],
+  "Reading Specialist": [],
+  "Speech-Language Pathologist": [
+    "speech language pathologist",
+    "speech-languagepathologist",
+    "speechlanguage pathologist"
+  ],
+  "Occupational Therapist (School)": [
+    "occupational therapist school"
+  ],
+  "School Psychologist": [],
+  "Behavior Specialist": [],
+  "IEP Coordinator": [],
+  "Curriculum Director": [],
+  "Instructional Coach": [],
+  "Professional Development Trainer": [
+    "pdt"
+  ],
+  "Superintendent": [],
+  "School Board Member": [
+    "sbm"
+  ],
+  "Textbook Sales Rep": [
+    "tsr"
+  ],
+  "EdTech Sales Rep": [
+    "esr"
+  ],
+  "Education Consultant": [],
+  "College Professor": [],
+  "Adjunct Professor": [],
+  "Tenured Professor": [],
+  "Department Chair": [],
+  "Dean": [],
+  "Provost": [],
+  "University President": [],
+  "Admissions Officer": [],
+  "Financial Aid Officer": [
+    "fao"
+  ],
+  "Registrar": [],
+  "Librarian (College)": [
+    "librarian college"
+  ],
+  "Research Assistant": [],
+  "Teaching Assistant": [],
+  "PhD Candidate": [],
+  "Postdoc": [],
+  "Academic Advisor": [],
+  "Career Services Counselor": [
+    "csc"
+  ],
+  "Alumni Relations Officer": [
+    "aro"
+  ],
+  "Continuing Education Instructor": [
+    "cei"
+  ],
+  "Corporate Trainer": [],
+  "Instructional Designer": [],
+  "eLearning Developer": [
+    "elearning engineer"
+  ],
+  "Education YouTuber": [],
+  "Khan Academy Contributor": [
+    "kac"
+  ],
+  "Homeschool Parent": [],
+  "Tutor": [],
+  "SAT Prep Tutor": [
+    "spt"
+  ],
+  "Test Prep Company Owner": [
+    "tpco"
+  ],
+  "School Bus Driver": [
+    "sbd"
+  ],
+  "Cafeteria Worker": [],
+  "Custodian": [],
+  "Crossing Guard": [],
+  "Truancy Officer": [],
+  "Paraprofessional": [],
+  "Bilingual Aide": [],
+  "After-School Program Director": [
+    "after school program director",
+    "after-schoolprogramdirector",
+    "afterschool program director",
+    "apd"
+  ],
+  "Summer Camp Counselor": [
+    "scc"
+  ],
+  "Education Policy Analyst": [
+    "epa"
+  ],
+  "Teacher Union Rep": [
+    "tur"
+  ],
+  "Default Education": [],
+  "Hedge Fund Analyst": [
+    "hfa"
+  ],
+  "Quant Trader": [],
+  "Portfolio Manager": [
+    "pm"
+  ],
+  "Financial Advisor": [],
+  "Wealth Manager": [],
+  "Certified Financial Planner": [
+    "cfp"
+  ],
+  "Family Office CIO": [
+    "foc"
+  ],
+  "Corporate Banker": [],
+  "Credit Analyst": [],
+  "Loan Officer": [],
+  "Underwriter": [],
+  "Commercial Real Estate Broker": [
+    "creb"
+  ],
+  "Residential Real Estate Broker": [
+    "rreb"
+  ],
+  "Title Insurance Agent": [
+    "tia"
+  ],
+  "Escrow Officer": [],
+  "CPA": [],
+  "Tax Accountant": [],
+  "Payroll Specialist": [],
+  "Internal Auditor": [],
+  "Forensic Accountant": [],
+  "CFO": [],
+  "Controller": [],
+  "FP&A Analyst": [
+    "fpa analyst"
+  ],
+  "Budget Analyst": [],
+  "Treasury Analyst": [],
+  "Cash Manager": [],
+  "AML Analyst": [],
+  "KYC Analyst": [],
+  "Trader (Equities)": [
+    "trader equities"
+  ],
+  "Fixed Income Trader": [
+    "fit"
+  ],
+  "Derivatives Trader": [],
+  "FX Trader": [],
+  "Commodities Trader": [],
+  "Prop Trader": [],
+  "Market Maker": [],
+  "Investment Analyst": [],
+  "Equity Research Analyst": [
+    "era"
+  ],
+  "Credit Researcher": [],
+  "M&A Analyst": [
+    "ma analyst"
+  ],
+  "Leveraged Finance Banker": [
+    "lfb"
+  ],
+  "Restructuring Banker": [],
+  "Capital Markets Banker": [
+    "cmb"
+  ],
+  "Syndicated Loan Agent": [
+    "sla"
+  ],
+  "Structured Finance Specialist": [
+    "sfs"
+  ],
+  "Securitization Analyst": [],
+  "Rating Agency Analyst": [
+    "raa"
+  ],
+  "Insurance Underwriter": [],
+  "Actuary": [],
+  "Claims Adjuster": [],
+  "Reinsurance Broker": [],
+  "Pension Fund Manager": [
+    "pfm"
+  ],
+  "Endowment Manager": [],
+  "Sovereign Wealth Fund Analyst": [
+    "swfa"
+  ],
+  "Mutual Fund Manager": [
+    "mfm"
+  ],
+  "ETF Trader": [],
+  "Fund Accountant": [],
+  "Transfer Agent": [],
+  "Custodian Bank Officer": [
+    "cbo"
+  ],
+  "Trade Settlement Clerk": [
+    "tsc"
+  ],
+  "Reconciliation Analyst": [],
+  "Treasury Dealer": [],
+  "Money Market Trader": [
+    "mmt"
+  ],
+  "Billboard Lease Broker": [
+    "blb"
+  ],
+  "Factoring Company Owner": [
+    "fco"
+  ],
+  "Hard Money Lender": [
+    "hml"
+  ],
+  "Payday Loan Officer": [
+    "plo"
+  ],
+  "Pawn Shop Broker": [
+    "psb"
+  ],
+  "Check Cashing Clerk": [
+    "ccc"
+  ],
+  "Remittance Agent": [],
+  "Currency Exchange Teller": [
+    "cet"
+  ],
+  "Crypto Exchange Support": [
+    "ces"
+  ],
+  "DeFi Lender": [],
+  "Stablecoin Issuer": [],
+  "Traditional Bank Teller": [
+    "tbt"
+  ],
+  "Branch Manager": [],
+  "Personal Banker": [],
+  "Business Banker": [],
+  "Chief Risk Officer": [
+    "cro"
+  ],
+  "Chief Compliance Officer": [
+    "cco"
+  ],
+  "Board Member": [],
+  "Default Finance": [],
+  "UI/UX Designer": [
+    "uiux designer"
+  ],
+  "Motion Graphics Designer": [
+    "mgd"
+  ],
+  "3D Artist": [],
+  "Concept Artist": [],
+  "Character Designer": [],
+  "Illustrator": [],
+  "Digital Painter": [],
+  "Art Director": [],
+  "Creative Director": [],
+  "Advertising Copywriter": [],
+  "Brand Strategist": [],
+  "Wedding Photographer": [],
+  "Portrait Photographer": [],
+  "Fashion Photographer": [],
+  "Photo Retoucher": [],
+  "Colorist": [],
+  "Sound Designer": [],
+  "Film Director": [],
+  "Film Producer": [],
+  "Cinematographer": [],
+  "Gaffer": [],
+  "Key Grip": [],
+  "Production Designer": [],
+  "Set Decorator": [],
+  "Costume Designer": [],
+  "Special Effects Makeup": [
+    "sem"
+  ],
+  "VFX Artist": [],
+  "Compositor": [],
+  "Animator": [],
+  "2D Animator": [],
+  "Storyboard Artist": [],
+  "ADR Actor": [],
+  "Foley Artist": [],
+  "Music Composer": [],
+  "Jingle Writer": [],
+  "Recording Engineer": [
+    "recording developer"
+  ],
+  "Mastering Engineer": [
+    "mastering developer"
+  ],
+  "DJ": [],
+  "Radio Host": [],
+  "Podcast Host": [],
+  "News Anchor": [],
+  "Photojournalist": [],
+  "Editor-in-Chief": [
+    "editor in chief"
+  ],
+  "Magazine Writer": [],
+  "Fashion Stylist": [],
+  "Landscape Architect": [],
+  "Industrial Designer": [],
+  "Product Designer": [],
+  "Packaging Designer": [],
+  "Logo Designer": [],
+  "Brand Identity Designer": [
+    "bid"
+  ],
+  "Type Designer": [],
+  "Web Designer": [],
+  "Game Artist": [],
+  "Game UI Designer": [
+    "gud"
+  ],
+  "Comic Book Artist": [
+    "cba"
+  ],
+  "Street Artist": [],
+  "Painter (Fine Art)": [
+    "painter fine art"
+  ],
+  "Gallery Curator": [],
+  "Art Critic": [],
+  "Museum Exhibit Designer": [
+    "med"
+  ],
+  "Auctioneer": [],
+  "Talent Agent": [],
+  "Casting Director": [],
+  "Influencer Manager": [],
+  "Social Media Content Creator": [
+    "smcc"
+  ],
+  "YouTuber": [],
+  "OnlyFans Creator": [],
+  "Meme Creator": [],
+  "Default Creative": [],
+  "Hotel General Manager": [
+    "hgm"
+  ],
+  "Front Desk Agent": [
+    "fda"
+  ],
+  "Concierge": [],
+  "Bellhop": [],
+  "Housekeeper": [],
+  "Executive Housekeeper": [],
+  "Laundry Attendant": [],
+  "Night Auditor": [],
+  "Revenue Manager": [],
+  "Reservations Agent": [],
+  "Restaurant Manager": [],
+  "Maitre d'": [
+    "maitre d"
+  ],
+  "Head Chef": [],
+  "Line Cook": [],
+  "Pastry Chef": [],
+  "Mixologist": [],
+  "Server": [],
+  "Busser": [],
+  "Host/Hostess": [
+    "hosthostess"
+  ],
+  "Food Runner": [],
+  "Barista": [],
+  "Cashier (Café)": [
+    "cashier caf"
+  ],
+  "Tour Guide": [],
+  "City Tour Guide": [
+    "ctg"
+  ],
+  "Museum Docent": [],
+  "Adventure Tour Guide": [
+    "atg"
+  ],
+  "Safari Guide": [],
+  "Cruise Director": [],
+  "Activities Coordinator (Resort)": [
+    "activities coordinator resort"
+  ],
+  "Wedding Planner (Hotel)": [
+    "wedding planner hotel"
+  ],
+  "Banquet Captain": [],
+  "Catering Manager": [],
+  "Pilot (Commercial)": [
+    "pilot commercial"
+  ],
+  "Airline Customer Service Agent": [
+    "acsa"
+  ],
+  "Gate Agent": [],
+  "Baggage Handler": [],
+  "Corporate Travel Manager": [
+    "ctm"
+  ],
+  "Destination Wedding Planner": [
+    "dwp"
+  ],
+  "Luxury Travel Advisor": [
+    "lta"
+  ],
+  "Backpacker Hostel Owner": [
+    "bho"
+  ],
+  "Airbnb Host": [],
+  "Superhost": [],
+  "Vacation Rental Manager": [
+    "vrm"
+  ],
+  "Timeshare Salesperson": [],
+  "Casino Host": [],
+  "Casino Dealer": [],
+  "Pit Boss": [],
+  "Valet": [],
+  "Ski Instructor": [],
+  "Golf Pro": [],
+  "Spa Manager": [],
+  "Massage Therapist (Spa)": [
+    "massage therapist spa"
+  ],
+  "Hairdresser (Salon in Hotel)": [
+    "hairdresser salon in hotel",
+    "hih"
+  ],
+  "Resort Activities Staff": [
+    "ras"
+  ],
+  "Kids Club Attendant": [
+    "kca"
+  ],
+  "Lifeguard": [],
+  "Pool Attendant": [],
+  "Banquet Server": [],
+  "Room Service Waiter": [
+    "rsw"
+  ],
+  "Butler (Luxury Hotel)": [
+    "butler luxury hotel"
+  ],
+  "Executive Lounge Attendant": [
+    "ela"
+  ],
+  "Shuttle Driver": [],
+  "Parking Attendant": [],
+  "Doorman": [],
+  "Security Guard (Hotel)": [
+    "security guard hotel"
+  ],
+  "Loss Prevention Officer": [
+    "lpo"
+  ],
+  "Gift Shop Cashier": [
+    "gsc"
+  ],
+  "Conference Sales Manager": [
+    "csm"
+  ],
+  "AV Technician (Hotel)": [
+    "av technician hotel"
+  ],
+  "Wedding DJ": [],
+  "Live Band (Hotel Lounge)": [
+    "lbl",
+    "live band hotel lounge"
+  ],
+  "Photographer (Resort)": [
+    "photographer resort"
+  ],
+  "Dive Instructor": [],
+  "Yoga Instructor (Resort)": [
+    "yoga instructor resort"
+  ],
+  "Personal Trainer (Hotel Gym)": [
+    "personal trainer hotel gym",
+    "ptg"
+  ],
+  "Tennis Pro": [],
+  "Golf Caddie": [],
+  "Marina Dockhand": [],
+  "Charter Boat Captain": [
+    "cbc"
+  ],
+  "Fishing Charter Guide": [
+    "fcg"
+  ],
+  "Helicopter Tour Pilot": [
+    "htp"
+  ],
+  "Hot Air Balloon Pilot": [
+    "habp"
+  ],
+  "Limousine Driver": [],
+  "Default Hospitality": [],
+  "General Contractor": [],
+  "Project Manager (Construction)": [
+    "pm",
+    "project manager construction"
+  ],
+  "Foreman": [],
+  "Framer": [],
+  "Finish Carpenter": [],
+  "Rough Carpenter": [],
+  "Trim Carpenter": [],
+  "Concrete Finisher": [],
+  "Concrete Pump Operator": [
+    "cpo"
+  ],
+  "Rebar Worker": [],
+  "Bricklayer": [],
+  "Block Mason": [],
+  "Stonemason": [],
+  "Shingler": [],
+  "Flat Roofer": [],
+  "Drywall Hanger": [],
+  "Drywall Finisher": [],
+  "Taper": [],
+  "Spray Painter": [],
+  "Journeyman Electrician": [],
+  "Master Electrician": [],
+  "Low Voltage Tech": [
+    "lvt"
+  ],
+  "Pipefitter": [],
+  "Steamfitter": [],
+  "HVAC Tech": [],
+  "Sheet Metal Worker": [
+    "smw"
+  ],
+  "Refrigeration Tech": [],
+  "Structural Ironworker": [],
+  "Ornamental Ironworker": [],
+  "Structural Welder": [],
+  "Pipe Welder": [],
+  "Tower Crane Operator": [
+    "tco"
+  ],
+  "Excavator Operator": [],
+  "Bulldozer Operator": [],
+  "Backhoe Operator": [],
+  "Skid Steer Operator": [
+    "sso"
+  ],
+  "Grade Checker": [],
+  "Surveyor": [],
+  "Laborer": [],
+  "Flagger": [],
+  "Traffic Control Supervisor": [
+    "tcs"
+  ],
+  "Demolition Worker": [],
+  "Blaster": [],
+  "Scaffolder": [],
+  "Insulator": [],
+  "Glazier": [],
+  "Curtain Wall Installer": [
+    "cwi"
+  ],
+  "Waterproofer": [],
+  "Caulker": [],
+  "Tile Setter": [],
+  "Marble Setter": [],
+  "Terrazzo Worker": [],
+  "Flooring Installer": [],
+  "Carpet Installer": [],
+  "Lather": [],
+  "Plasterer": [],
+  "Stucco Worker": [],
+  "EIFS Installer": [],
+  "Fencer": [],
+  "Fence Erector": [
+    "fe"
+  ],
+  "Operating Engineer": [
+    "operating developer"
+  ],
+  "Pile Driver Operator": [
+    "pdo"
+  ],
+  "Driller (Foundation)": [
+    "driller foundation"
+  ],
+  "Crane Signal Person": [
+    "csp"
+  ],
+  "Rigger": [],
+  "Safety Manager": [],
+  "Site Safety Officer": [
+    "sso"
+  ],
+  "Estimator": [],
+  "Quantity Surveyor": [],
+  "Scheduler": [],
+  "Cost Engineer": [
+    "cost developer"
+  ],
+  "BIM Coordinator": [],
+  "VDC Manager": [],
+  "Owner": [],
+  "Developer": [
+    "engineer"
+  ],
+  "Default Construction": [],
+  "Detective": [],
+  "SWAT Officer": [],
+  "Patrol Officer": [],
+  "Sheriff": [],
+  "State Trooper": [],
+  "K9 Officer": [],
+  "Corrections Officer": [],
+  "Prison Warden": [],
+  "Parole Officer": [],
+  "Probation Officer": [],
+  "Fire Captain": [],
+  "Wildland Firefighter": [],
+  "Search and Rescue": [
+    "sar"
+  ],
+  "Lifeguard (Ocean)": [
+    "lifeguard ocean"
+  ],
+  "Border Patrol Agent": [
+    "bpa"
+  ],
+  "Customs Officer": [],
+  "TSA Agent": [],
+  "Secret Service Agent": [
+    "ssa"
+  ],
+  "FBI Agent": [],
+  "DEA Agent": [],
+  "ATF Agent": [],
+  "Marshal": [],
+  "Coast Guard Rescue Swimmer": [
+    "cgrs"
+  ],
+  "Soldier (Infantry)": [
+    "soldier infantry"
+  ],
+  "Special Forces Operator": [
+    "sfo"
+  ],
+  "Military Pilot": [],
+  "Park Ranger": [],
+  "Game Warden": [],
+  "Postal Worker": [],
+  "Mail Carrier": [],
+  "Sanitation Worker": [],
+  "Water Treatment Plant Operator": [
+    "wtpo"
+  ],
+  "Meter Reader": [],
+  "Traffic Cop": [],
+  "Judge": [],
+  "Court Clerk": [],
+  "Bailiff": [],
+  "Public Defender": [],
+  "Prosecutor": [],
+  "Social Worker (Child Protective)": [
+    "social worker child protective",
+    "swp"
+  ],
+  "Foster Care Caseworker": [
+    "fcc"
+  ],
+  "911 Dispatcher": [],
+  "Ambulance Driver": [],
+  "School Resource Officer": [
+    "sro"
+  ],
+  "Bodyguard": [],
+  "Private Investigator": [],
+  "Forensic Investigator": [],
+  "Crime Scene Technician": [
+    "cst"
+  ],
+  "Coroner": [],
+  "Default Public Service": [
+    "dps"
+  ],
+  "Team Leader": [
+    "supervisor",
+    "team lead",
+    "lead"
+  ],
+  "Project Manager": [
+    "pjm",
+    "project lead"
+  ]
+}
