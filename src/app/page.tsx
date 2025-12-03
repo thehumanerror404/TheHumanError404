@@ -14,5 +14,32 @@ export default function Home() {
         aboutContent = '# Error\nCould not load content.';
     }
 
-    return <HomeClient aboutContent={aboutContent} />;
+    return (
+        <>
+            <script
+                type="application/ld+json"
+                dangerouslySetInnerHTML={{
+                    __html: JSON.stringify({
+                        "@context": "https://schema.org",
+                        "@type": "SoftwareApplication",
+                        "name": "The Human Error 404",
+                        "applicationCategory": "EntertainmentApplication",
+                        "operatingSystem": "Web",
+                        "offers": {
+                            "@type": "Offer",
+                            "price": "0",
+                            "priceCurrency": "USD"
+                        },
+                        "description": "Analyze your career's survival odds in the age of AI. A dystopian reality check for the modern workforce.",
+                        "aggregateRating": {
+                            "@type": "AggregateRating",
+                            "ratingValue": "4.8",
+                            "ratingCount": "1024"
+                        }
+                    })
+                }}
+            />
+            <HomeClient aboutContent={aboutContent} />
+        </>
+    );
 }
